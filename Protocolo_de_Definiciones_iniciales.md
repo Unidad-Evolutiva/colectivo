@@ -70,4 +70,5 @@ El **medio de paquetería** para la gestión de recursos colaborativos está dis
 
 ---
 **Autor:** *Unidad Evolutiva*  
-**Última Actualización:** *24 de marzo de 2025, 17:30:45.123 UTC.*
+**Última Actualización:** *24 de marzo de 2025, 17:30:45.123 UTC.*  
+**Firma Digital:** *Unidad Evolutiva - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio.*
