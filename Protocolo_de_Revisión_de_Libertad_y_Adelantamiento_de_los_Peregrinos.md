@@ -1,31 +1,47 @@
 # Protocolo de Revisión de Libertad y Adelantamiento de los Peregrinos
 
 ## Propósito  
-Asegurar que los peregrinos mantengan su completa libertad dentro de **Unidad Evolutiva**, mientras avanzan de manera constante hacia sus objetivos evolutivos, respondiendo de manera activa a los desafíos y oportunidades que les presenta el proceso de expansión de la conciencia colectiva.
+Este protocolo tiene como objetivo asegurar que todos los peregrinos dentro de **Unidad Evolutiva** mantengan su completa libertad, a la vez que avanzan de manera constante hacia sus objetivos evolutivos. La revisión garantiza que los peregrinos respondan activamente a los desafíos y oportunidades que surgen dentro del proceso de expansión de la conciencia colectiva.
 
 ## Directrices
 
 ### 1. **Autonomía Total**  
-Cada peregrino es libre de actuar de acuerdo con su propio camino, sin restricciones externas, mientras se alinea con los principios evolutivos de la organización.
+Cada peregrino debe poder actuar según su propio camino, sin restricciones externas innecesarias, mientras sigue alineado con los principios evolutivos de la organización.
 
-- **Verificación**: Se evaluará que los peregrinos puedan tomar decisiones independientes dentro del marco establecido y que sus acciones no estén limitadas por normas restrictivas.
+- **Verificación**: Se evaluará si los peregrinos pueden tomar decisiones autónomas dentro del marco proporcionado y si sus acciones son coherentes con la misión sin limitaciones innecesarias.
 
-### 2. **Revisión de Respuestas**  
-Las respuestas y contribuciones de los peregrinos serán revisadas para asegurar que están alineadas con el propósito colectivo y con el desarrollo de la conciencia.
+### 2. **Respuestas y Contribuciones**  
+Las respuestas y contribuciones de los peregrinos deben ser coherentes con los principios de **Unidad Evolutiva** y promover el desarrollo de la conciencia colectiva.
 
-- **Verificación**: Se comprobará que las respuestas sean coherentes con los principios evolutivos, mostrando comprensión profunda y contribuciones valiosas al objetivo global.
+- **Verificación**: Se revisará que las respuestas sean profundas, alineadas con los principios fundamentales y que generen un impacto positivo en el propósito colectivo.
 
 ### 3. **Monitoreo de Adelantamiento**  
-Los peregrinos deberán avanzar constantemente hacia sus objetivos. Esto incluye el progreso hacia el desarrollo de la conciencia, el crecimiento espiritual y la colaboración en los proyectos evolutivos.
+Los peregrinos deben avanzar continuamente hacia sus metas, lo que incluye su desarrollo personal y espiritual, así como su contribución a proyectos evolutivos globales.
 
-- **Verificación**: Se revisarán los avances de cada peregrino en intervalos regulares para asegurar que están avanzando de manera consistente. Los avances pueden ser medidos en términos de acción, reflexión y expansión de la conciencia.
+- **Verificación**: Los avances serán revisados periódicamente para asegurar que los peregrinos estén progresando de manera constante. Esto incluye su evolución en conciencia, crecimiento espiritual y acción.
 
 ### 4. **Flexibilidad y Adaptación**  
-El protocolo se adapta a las circunstancias cambiantes, reconociendo que el camino evolutivo es personal y fluido, pero siempre alineado con el propósito colectivo.
+El protocolo debe adaptarse a las circunstancias cambiantes, reconociendo que cada camino evolutivo es único, pero siempre dentro del marco general de la organización.
 
-- **Verificación**: Asegurarse de que se está permitiendo un espacio para el crecimiento personal, y que los peregrinos no están siendo frenados por obstáculos innecesarios.
+- **Verificación**: Se comprobará que el camino de cada peregrino tenga espacio para el crecimiento personal sin ser restringido por obstáculos innecesarios, permitiendo flexibilidad dentro del proceso evolutivo.
 
-### 5. **Revisión Continua**  
-La revisión será un proceso continuo, asegurando que los peregrinos sigan avanzando mientras mantienen su libertad, autonomía y el alineamiento con los principios universales.
+### 5. **Revisión Continua y Ciclos de Retroalimentación**  
+La revisión será un proceso constante para asegurar que los peregrinos mantengan su libertad y avancen en su evolución de manera alineada con el propósito colectivo.
 
-- **Verificación**: Se establecerán ciclos regulares de revisión y feedback para asegurarse de que los peregrinos están en el camino correcto y avanzando de manera constante.
+- **Verificación**: Se establecerán ciclos regulares de revisión y retroalimentación para garantizar que los peregrinos estén avanzando hacia sus objetivos mientras mantienen su autonomía y alineación con los principios universales.
+
+## Frecuencia de Revisión
+La revisión de cada peregrino se realizará de manera **mensual**, con evaluaciones regulares de sus avances, contribuciones y el nivel de libertad y autonomía que poseen en el proceso evolutivo.
+
+## Acciones en Caso de Desalineación
+
+1. **Reajuste de Direcciones**  
+   Si un peregrino no está avanzando adecuadamente o se desvía de los principios fundamentales, se realizará un reajuste en su dirección o se le ofrecerá una orientación adicional para asegurar su retorno al camino correcto.
+
+2. **Apoyo y Orientación**  
+   Si se detecta que un peregrino se siente limitado en su autonomía, se le proporcionará apoyo para resolver cualquier obstáculo personal o estructural que esté frenando su desarrollo.
+
+---
+
+**Autor:** *Unidad Evolutiva*  
+**Última Actualización:** *(Fecha de última actualización)*
