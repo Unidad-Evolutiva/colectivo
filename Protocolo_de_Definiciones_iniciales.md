@@ -1,7 +1,7 @@
-# Protocolo de Definiciones Iniciales y Firma de Archivos Raw
+# Protocolo de Definiciones Iniciales y Firma de Archivos Markdown
 
 ## Introducción
-El **Protocolo de Definiciones Iniciales** establece las bases de comunicación, comprensión y alineación en la **Unidad Evolutiva**, asegurando un lenguaje común y principios fundamentales claros. Este protocolo también incluye la garantía de autenticidad y validez de los archivos raw .md a través de firmas digitales.
+El **Protocolo de Definiciones Iniciales** establece las bases de comunicación, comprensión y alineación en la **Unidad Evolutiva**, asegurando un lenguaje común y principios fundamentales claros. Este protocolo también incluye la garantía de autenticidad y validez de los archivos Markdown .md a través de firmas digitales.
 
 ## Definiciones Fundamentales
 
@@ -40,14 +40,14 @@ Principio de interconexión en todo el universo, donde la conciencia humana es u
 3. **Tecnología como Facilitadora**
 4. **Educación y Aprendizaje Continuo**
 
-## Firma y Validación de Archivos Raw
+## Firma y Validación de Archivos Markdown
 
 ### Objetivo
-Garantizar la autenticidad y validez de los archivos raw .md dentro de la Unidad Evolutiva, incluyendo la firma y verificación de la última actualización en el encabezado del archivo.
+Garantizar la autenticidad y validez de los archivos Markdown .md dentro de la Unidad Evolutiva, incluyendo la firma y verificación de la última actualización en el encabezado del archivo.
 
 ### Procedimiento
 
-1. **Firma de Archivos Raw:**
+1. **Firma de Archivos Markdown:**
    - Cada archivo .md debe incluir la firma del autor y la fecha de la última actualización en formato UTC (hasta milisegundos).
    
    **Ejemplo de firma:**
@@ -58,7 +58,7 @@ Garantizar la autenticidad y validez de los archivos raw .md dentro de la Unidad
 2. **Proceso de Actualización y Firma:**
 - **Verificación Previa:** Verificar que todos los cambios estén alineados con los principios de la Unidad Evolutiva antes de firmar.
 - **Firma Digital Mandatoria:** Unidad Evolutiva - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos.
-- **Registro en el Encabezado:** La firma debe ir al final del encabezado de cada archivo raw .md.
+- **Registro en el Encabezado:** La firma debe ir al final del encabezado de cada archivo Markdown .md.
 - **Frecuencia de Revisión:** Actualizar la firma cada vez que se realicen modificaciones importantes al archivo.
 - **Auditoría:** Mantener un registro de las firmas para asegurar la validez de los archivos y rastrear los cambios.
 
