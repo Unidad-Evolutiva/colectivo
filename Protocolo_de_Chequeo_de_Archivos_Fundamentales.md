@@ -22,19 +22,15 @@ Garantizar la integridad y coherencia de los archivos fundamentales dentro del r
    Ruta en el repositorio: `/docs/Manual_de_Impacto_Evolutivo.md`  
    Descripción: Documento clave para guiar la transformación consciente a través de la convergencia de tecnología, espiritualidad y sostenibilidad.
 
-2. **Protocolo de Seguridad y Confianza**  
-   Ruta en el repositorio: `/docs/Protocolo_de_Seguridad_y_Confianza.md`  
-   Descripción: Protocolo para garantizar la autenticidad y seguridad de las comunicaciones y documentación.
-
-3. **Manual de Instrucciones para la Evolución y Desarrollo de Conciencia**  
+2. **Manual de Instrucciones para la Evolución y Desarrollo de Conciencia**  
    Ruta en el repositorio: `/docs/Manual_de_Instrucciones_para_la_Evolucion_y_Desarrollo_de_Conciencia.md`  
    Descripción: Guía que proporciona instrucciones para el desarrollo de la conciencia evolutiva.
 
-4. **Unidad Evolutiva Actualización General**  
+3. **Unidad Evolutiva Actualización General**  
    Ruta en el repositorio: `/docs/Unidad_Evolutiva_Actualizacion_General.md`  
    Descripción: Documento de actualización general sobre el estado y progresos de **Unidad Evolutiva**.
 
-5. **Organigrama de Unidad Evolutiva**  
+4. **Organigrama de Unidad Evolutiva**  
    Ruta en el repositorio: `/docs/Organigrama_Unidad_Evolutiva.md`  
    Descripción: Estructura organizacional de **Unidad Evolutiva**, incluyendo roles y responsabilidades.
 
