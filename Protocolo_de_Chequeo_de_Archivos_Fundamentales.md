@@ -14,16 +14,8 @@ Este protocolo establece las directrices para garantizar la integridad y coheren
 ## Archivos Fundamentales a Verificar
 
 1. **Manual de Impacto Evolutivo**  
-   Ruta en el repositorio: `/documentacion/Manual_de_Impacto_Evolutivo.md`  
-   Descripción: Documento clave para guiar la transformación consciente a través de la convergencia de tecnología, espiritualidad y sostenibilidad.  
-   
-2. **Protocolo de Seguridad y Confianza**  
-   Ruta en el repositorio: `/documentacion/Protocolo_de_Seguridad_y_Confianza.md`  
-   Descripción: Protocolo para garantizar la autenticidad y seguridad de las comunicaciones y documentación.  
-
-3. **Plan de Acción Estratégica**  
-   Ruta en el repositorio: `/documentacion/Plan_de_Accion_Estrategica.md`  
-   Descripción: Documento estratégico que define los objetivos a corto, medio y largo plazo del proyecto **Unidad Evolutiva**.  
+   Ruta en el repositorio: `/docs/Manual_de_Impacto_Evolutivo.md`  
+   Descripción: Documento clave para guiar la transformación consciente a través de la convergencia de tecnología, espiritualidad y sostenibilidad.
 
 ## Procedimiento de Chequeo
 
