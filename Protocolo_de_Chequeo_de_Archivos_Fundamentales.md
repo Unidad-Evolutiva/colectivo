@@ -1,26 +1,31 @@
 # Protocolo de Chequeo de Archivos Fundamentales
 
-## Introducción
+## Objetivo
+Garantizar la integridad y coherencia de los archivos fundamentales dentro del repositorio de **Unidad Evolutiva**, asegurando que todos los documentos clave estén actualizados y alineados con los principios y objetivos de la organización.
 
-Este protocolo establece las directrices para garantizar la integridad y coherencia de los archivos fundamentales dentro del repositorio de **Unidad Evolutiva**. Su propósito es asegurar que todos los archivos esenciales estén presentes, sean coherentes con el propósito evolutivo del proyecto y sean accesibles para su revisión y actualización cuando sea necesario.
+## Procedimientos de Chequeo
+1. **Chequeo Regular**  
+   Los archivos fundamentales deben ser revisados periódicamente para asegurarse de que todos estén actualizados y sean coherentes con las directrices de **Unidad Evolutiva**.
 
-## Objetivos
+2. **Verificación de Actualización**  
+   Cada archivo debe ser verificado para asegurar que las actualizaciones realizadas sean relevantes y que el contenido sea adecuado para las necesidades de la organización.
 
-1. **Verificar la existencia** de los archivos fundamentales requeridos para la estructura del proyecto.
-2. **Comprobar la coherencia** del contenido en relación con la misión y visión de **Unidad Evolutiva**.
-3. **Garantizar la integridad** de los archivos mediante el control de versiones.
-4. **Facilitar la actualización y auditoría** continua del repositorio.
+3. **Revisión de Integridad**  
+   Se verificará que no haya errores en la información, que los enlaces sean funcionales y que todos los archivos sean accesibles y legibles.
+
+4. **Verificación de Alineación**  
+   Se evaluará que cada archivo esté alineado con la visión, misión y principios fundamentales de **Unidad Evolutiva**, asegurando que todos los documentos sean congruentes con el propósito colectivo.
 
 ## Archivos Fundamentales a Verificar
 
 1. **Manual de Impacto Evolutivo**  
    Ruta en el repositorio: `/docs/Manual_de_Impacto_Evolutivo.md`  
    Descripción: Documento clave para guiar la transformación consciente a través de la convergencia de tecnología, espiritualidad y sostenibilidad.
-   
+
 2. **Protocolo de Seguridad y Confianza**  
    Ruta en el repositorio: `/docs/Protocolo_de_Seguridad_y_Confianza.md`  
    Descripción: Protocolo para garantizar la autenticidad y seguridad de las comunicaciones y documentación.
-   
+
 3. **Manual de Instrucciones para la Evolución y Desarrollo de Conciencia**  
    Ruta en el repositorio: `/docs/Manual_de_Instrucciones_para_la_Evolucion_y_Desarrollo_de_Conciencia.md`  
    Descripción: Guía que proporciona instrucciones para el desarrollo de la conciencia evolutiva.
@@ -33,29 +38,22 @@ Este protocolo establece las directrices para garantizar la integridad y coheren
    Ruta en el repositorio: `/docs/Organigrama_Unidad_Evolutiva.md`  
    Descripción: Estructura organizacional de **Unidad Evolutiva**, incluyendo roles y responsabilidades.
 
-## Procedimiento de Chequeo
+## Acciones en Caso de Incumplimiento
 
-1. **Acceso al Repositorio**: Asegurarse de tener acceso completo al repositorio en Git para realizar la revisión.
-2. **Verificación de Archivos**: Confirmar que los archivos mencionados en la lista anterior existen en las rutas especificadas.
-3. **Revisión de Coherencia**: Leer el contenido de cada archivo y asegurarse de que está alineado con la misión y los objetivos de **Unidad Evolutiva**.
-4. **Chequeo de Integridad**: Verificar que los archivos no estén dañados y que se pueda acceder a ellos sin problemas.
-5. **Control de Versiones**: Comprobar que los archivos estén siendo gestionados correctamente a través del control de versiones, con cambios documentados en el historial de Git.
+1. **Actualización Inmediata**  
+   Si se detecta que un archivo no está actualizado o no cumple con las directrices, se procederá a realizar las actualizaciones necesarias lo antes posible.
+
+2. **Notificación de Errores**  
+   En caso de encontrar errores en la información, se notificará a la persona responsable de la actualización del archivo para corregirlos.
+
+3. **Revisión Adicional**  
+   Si se detecta que un archivo está desalineado con los principios fundamentales de **Unidad Evolutiva**, se realizará una revisión detallada y se ajustará el contenido según sea necesario.
 
 ## Frecuencia de Revisión
 
-La revisión de los archivos fundamentales debe realizarse de manera regular, al menos **una vez al mes**. También se recomienda revisar los archivos después de cualquier actualización importante o cambio estratégico en **Unidad Evolutiva**.
-
-## Acciones en Caso de Incumplimiento
-
-- **Falta de Existencia de Archivos**: Si algún archivo fundamental no se encuentra en la ruta especificada, deberá ser restaurado o re-creado con el contenido adecuado.
-- **Incoherencia en el Contenido**: Si el contenido de un archivo no refleja la visión y objetivos de **Unidad Evolutiva**, deberá ser actualizado y alineado con el propósito global del proyecto.
-- **Problemas de Integridad**: Si algún archivo está dañado o no es accesible, será necesario restaurarlo desde una versión anterior o desde una copia de seguridad.
-
-## Conclusión
-
-El protocolo de chequeo de archivos fundamentales es crucial para asegurar que **Unidad Evolutiva** se mantenga en el camino correcto y que los documentos claves del proyecto estén siempre disponibles y alineados con nuestra visión de expansión consciente y sostenible.
+La revisión de los archivos fundamentales debe realizarse de manera mensual, asegurando que todos los documentos clave se mantengan actualizados y alineados con los objetivos estratégicos de **Unidad Evolutiva**.
 
 ---
 
-**Autor**: *Lúmina Tecnológica*  
-**Fecha de Creación**: *(Fecha de registro inicial)*
+**Autor:** *Unidad Evolutiva*  
+**Última Actualización:** *(Fecha de última actualización)*
