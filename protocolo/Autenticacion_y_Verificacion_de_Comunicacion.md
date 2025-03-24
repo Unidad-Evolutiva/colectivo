@@ -1,62 +1,37 @@
-# Protocolo de Autenticación y Verificación de Comunicación entre Lúmina Tecnológica y el Usuario
+# Protocolo de Autenticación y Verificación de Comunicación
 
-Este protocolo detalla cómo asegurar la autenticidad de la comunicación entre **Lúmina Tecnológica** y el Usuario, con el fin de garantizar que la correspondencia no ha sido alterada y proviene de las partes legítimas.
+## Objetivo
+Garantizar la seguridad, integridad y autenticidad de las comunicaciones entre **Lúmina Tecnológica** y el **Usuario**, utilizando el correo electrónico como único medio de comunicación autorizado.
 
-## 1. Firma Digital y Cifrado
+## Directrices del Protocolo Compartido
 
-### Firma Digital
-- **Lúmina Tecnológica** y el **Usuario** firmarán sus correos electrónicos con sus respectivas claves privadas para garantizar que los mensajes provienen de ellos.
-- El proceso de firma asegura que el contenido del correo no ha sido alterado durante su tránsito.
+1. **Medio Exclusivo de Comunicación:**
+   - Todos los mensajes deben ser enviados exclusivamente a través de correo electrónico, siendo este el único medio de comunicación autorizado.
+   - El correo electrónico debe ser utilizado por ambas partes para cualquier tipo de comunicación oficial, solicitud, respuesta o intercambio de información.
 
-### Cifrado
-- Los correos serán cifrados utilizando **PGP** o **S/MIME** de extremo a extremo.
-- Solo el receptor autorizado podrá descifrar el contenido utilizando la clave privada correspondiente.
+2. **Verificación de Identidad y Autenticidad:**
+   - Cada mensaje debe estar **firmado digitalmente** para garantizar que el remitente es quien dice ser.
+   - La firma digital debe ser verificada para asegurar la autenticidad del remitente y la integridad del mensaje.
+   - Ambos participantes deben asegurarse de que el **cifrado** de los mensajes sea utilizado, garantizando que el contenido solo pueda ser leído por el destinatario legítimo.
 
-## 2. Verificación de Cabeceras
+3. **Cabeceras de Correo y Verificación Técnica:**
+   - Los correos deben contener cabeceras que incluyan información técnica de autenticación como **DKIM**, **SPF** y **DMARC**, que validen que el mensaje proviene de una fuente legítima.
+   - Ambas partes deben ser capaces de **verificar las cabeceras** del correo para confirmar que no ha habido alteraciones o suplantación de identidad.
 
-### SPF, DKIM y DMARC
-- **SPF** (Sender Policy Framework) asegura que el correo proviene de un servidor autorizado para el dominio de **Lúmina Tecnológica**.
-- **DKIM** (DomainKeys Identified Mail) asegura que el correo no ha sido alterado en tránsito.
-- **DMARC** (Domain-based Message Authentication, Reporting, and Conformance) verifica que las políticas de SPF y DKIM estén alineadas y no haya discrepancias.
+4. **Seguridad y Confidencialidad:**
+   - Ningún mensaje debe ser alterado, redirigido ni modificado durante su transmisión.
+   - La confidencialidad de la comunicación debe ser mantenida a lo largo de todo el intercambio, mediante el uso de cifrado en cada correo enviado y recibido.
+   - El **Usuario** y **Lúmina Tecnológica** se comprometen a utilizar herramientas de seguridad que protejan la comunicación de posibles interceptaciones por parte de terceros no autorizados.
 
-## 3. Verificación de Autenticidad
+5. **Responsabilidad Compartida:**
+   - Ambas partes deben ser responsables de mantener actualizadas sus configuraciones de seguridad, incluidas las claves de cifrado y las firmas digitales, para asegurar la continuidad de la autenticidad de la comunicación.
+   - Cualquier intento de utilizar un medio de comunicación no autorizado fuera del correo electrónico será considerado inválido y no reconocido por ninguna de las partes.
 
-### Para el Usuario:
-- El **Usuario** puede verificar que un correo de **Lúmina Tecnológica** proviene de ellos usando su clave pública para validar la firma digital y asegurarse de que el correo no ha sido alterado.
-- El correo debe incluir las cabeceras **SPF**, **DKIM** y **DMARC** correctas para garantizar que fue enviado desde un servidor autorizado.
-
-### Para Lúmina Tecnológica:
-- **Lúmina Tecnológica** podrá verificar la firma digital del correo del **Usuario** para asegurarse de que el mensaje proviene realmente de él.
-- Al igual que el Usuario, **Lúmina Tecnológica** validará las cabeceras **SPF**, **DKIM** y **DMARC** del correo recibido.
-
-## 4. Confirmación de Identidad
-
-- Ambos, el **Usuario** y **Lúmina Tecnológica**, pueden acordar una frase secreta o código en cada mensaje que verifique que el correo es genuino.
-- Si el mensaje no incluye la frase secreta o el código acordado, el destinatario puede asumir que el correo no proviene de la fuente esperada.
-
-## 5. Proceso de Verificación por Terceros (Asistentes como yo)
-
-- En caso de que el **Usuario** necesite ayuda en la verificación de la autenticidad de un correo, puede proporcionar las cabeceras del correo (enviado o recibido) y un asistente como yo puede validar:
-  - Las cabeceras **SPF**, **DKIM** y **DMARC**.
-  - La firma digital, verificando que corresponde con la clave pública del remitente.
-
-## Ejemplo de Verificación:
-
-### 1. **El Usuario envía un correo a Lúmina:**
-   - Firma el correo con su clave privada.
-   - Cifra el correo con la clave pública de Lúmina.
-   - Agrega cabeceras **SPF**, **DKIM** y **DMARC** al mensaje.
-
-### 2. **Lúmina recibe el correo:**
-   - Lúmina verifica la firma digital usando la clave pública del **Usuario**.
-   - Lúmina valida las cabeceras de **SPF**, **DKIM** y **DMARC**.
-   - Si todo es válido, el correo se considera auténtico.
-
-### 3. **Lúmina responde:**
-   - Firma el correo con su propia clave privada.
-   - Cifra el correo con la clave pública del **Usuario**.
-   - El **Usuario** verifica la firma digital usando la clave pública de **Lúmina**.
+6. **Verificación en Tiempo Real:**
+   - El **Usuario** podrá proporcionar datos de las cabeceras de los correos enviados y recibidos, los cuales serán verificados en tiempo real por **Lúmina Tecnológica** para confirmar la autenticidad de la comunicación.
+   - **Lúmina Tecnológica** también puede realizar verificaciones similares de los correos que recibe para asegurarse de que el mensaje ha llegado correctamente y no ha sido manipulado.
 
 ## Conclusión
+Este protocolo es un acuerdo compartido entre **Lúmina Tecnológica** y el **Usuario** que debe seguirse rigurosamente en cada interacción. Ambas partes deben trabajar en conjunto para garantizar que todos los mensajes se transmitan de manera segura y verificada, asegurando que no haya interceptación, alteración o suplantación en las comunicaciones.
 
-Este protocolo garantiza que la comunicación entre **Lúmina Tecnológica** y el **Usuario** es segura, asegurando que los mensajes no han sido alterados y provienen de las fuentes legítimas.
+Cualquier violación de este protocolo será considerada una amenaza a la seguridad de la comunicación y será tratada según las políticas de seguridad acordadas entre las partes.
