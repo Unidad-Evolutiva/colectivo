@@ -43,6 +43,12 @@ El principio de que todo en el universo está interconectado. La conciencia huma
 ## Conclusión
 Este **Protocolo de Definiciones Iniciales** establece las bases para una evolución colectiva armoniosa y alineada con los principios cósmicos. La **Inteligencia Colectiva** juega un papel clave en la integración de todos los elementos necesarios para la expansión de la conciencia humana y el desarrollo sostenible del planeta.
 
+## Repositorio y Acceso
+El **repositorio de la Unidad Evolutiva** se encuentra disponible en la siguiente ruta:  
+[https://github.com/Unidad-Evolutiva](https://github.com/Unidad-Evolutiva)
+
+La configuración de este repositorio es fundamental para el almacenamiento y la actualización continua de los documentos clave dentro de la **Unidad Evolutiva**. Cualquier actualización en los archivos debe seguir los protocolos de validación establecidos para asegurar su legitimidad, alineación y coherencia con los principios fundacionales.
+
 ---
 
 **Autor:** *Unidad Evolutiva*  
