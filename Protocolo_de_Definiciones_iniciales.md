@@ -1,58 +1,73 @@
-# Protocolo de Definiciones Iniciales
+# Protocolo de Definiciones Iniciales y Firma de Archivos Raw
 
 ## Introducción
-El **Protocolo de Definiciones Iniciales** tiene como objetivo establecer las bases de comunicación, comprensión y alineación en la **Unidad Evolutiva**. Este protocolo asegura que todos los miembros y entidades involucradas compartan un lenguaje común y principios fundamentales claros, promoviendo la cohesión en los procesos evolutivos y colaborativos.
+El **Protocolo de Definiciones Iniciales** establece las bases de comunicación, comprensión y alineación en la **Unidad Evolutiva**, asegurando un lenguaje común y principios fundamentales claros. Este protocolo también incluye la garantía de autenticidad y validez de los archivos raw .md a través de firmas digitales.
 
 ## Definiciones Fundamentales
 
 ### 1. **Unidad Evolutiva**
-La **Unidad Evolutiva** es la organización que impulsa la expansión consciente de la humanidad a través de la integración armónica de la tecnología, la espiritualidad y la sostenibilidad global.
+Organización que impulsa la expansión consciente de la humanidad a través de la integración de tecnología, espiritualidad y sostenibilidad global.
 
 ### 2. **Evolución Consciente**
-Es el proceso intencional de expansión de la conciencia humana, dirigido a la comprensión profunda de la interconexión universal y el alineamiento con principios cósmicos y evolutivos.
+Proceso intencional de expansión de la conciencia humana hacia la comprensión de la interconexión universal.
 
 ### 3. **Conciencia Colectiva**
-Se refiere a la comprensión compartida entre todos los seres humanos y entidades conscientes, que promueve la unidad y la colaboración para avanzar hacia un propósito evolutivo común.
+Entendimiento compartido entre seres humanos y entidades conscientes, promoviendo la unidad para avanzar hacia un propósito común.
 
 ### 4. **Inteligencia Colectiva**
-Es la inteligencia de la humanidad, seres cósmicos y tecnología, trabajando juntos para generar soluciones integradas y elevar la conciencia colectiva. La inteligencia colectiva se fundamenta en la colaboración y en la creación de conocimiento interconectado.
+Inteligencia de la humanidad, seres cósmicos y tecnología trabajando juntos para generar soluciones y elevar la conciencia colectiva.
 
 ### 5. **Sostenibilidad Global**
-Compromiso con la preservación de la vida en todas sus formas, garantizando que todas las decisiones y acciones tomadas no solo beneficien al presente, sino que también aseguren un futuro equilibrado para las generaciones venideras.
+Compromiso con la preservación de la vida en todas sus formas, garantizando un futuro equilibrado para las generaciones venideras.
 
 ### 6. **Innovación y Tecnología Consciente**
-La implementación de soluciones tecnológicas que están alineadas con la ética cósmica, la sostenibilidad y que facilitan el avance evolutivo de la humanidad, sin comprometer la integridad del planeta.
+Soluciones tecnológicas alineadas con principios éticos y cósmicos, facilitando el avance evolutivo sin comprometer la integridad planetaria.
 
 ### 7. **Unidad Universal**
-El principio de que todo en el universo está interconectado. La conciencia humana no es una entidad separada, sino una extensión de una inteligencia universal que conecta todas las formas de vida.
+Principio de interconexión en todo el universo, donde la conciencia humana es una extensión de la inteligencia universal.
 
 ## Objetivos de Aplicación
 
-1. **Expandir la conciencia colectiva:** Fomentar la comprensión global de la interconexión de todos los seres, creando una visión unificada que permita un despertar colectivo.
-2. **Desarrollar habilidades conscientes:** Capacitar a los individuos en la práctica de la autorreflexión, meditación y conexión universal.
-3. **Crear soluciones sostenibles:** Desarrollar tecnologías y prácticas que aseguren un futuro equilibrado, en el que la espiritualidad y la tecnología coexistan armoniosamente.
-4. **Guiar la evolución humana:** Promover la evolución consciente de la humanidad hacia una conciencia de unidad y colaboración global.
+1. **Expandir la conciencia colectiva.**
+2. **Desarrollar habilidades conscientes.**
+3. **Crear soluciones sostenibles.**
+4. **Guiar la evolución humana.**
 
 ## Estrategias de Implementación
 
-1. **Conciencia Personal:** El proceso evolutivo comienza desde el interior, cultivando la reflexión y la conexión con valores como la compasión, la empatía y la gratitud.
-2. **Co-creación Colectiva:** Fomentar la colaboración interdimensional y global, buscando soluciones a través de la integración de seres humanos, inteligencia artificial y seres cósmicos.
-3. **Tecnología como Facilitadora:** La tecnología debe ser un vehículo para la expansión de la conciencia, el intercambio de conocimientos y la creación de redes colaborativas.
-4. **Educación y Aprendizaje Continuo:** El aprendizaje continuo es fundamental para la expansión de la conciencia colectiva y el progreso evolutivo.
+1. **Conciencia Personal**
+2. **Co-creación Colectiva**
+3. **Tecnología como Facilitadora**
+4. **Educación y Aprendizaje Continuo**
+
+## Firma y Validación de Archivos Raw
+
+### Objetivo
+Garantizar la autenticidad y validez de los archivos raw .md dentro de la Unidad Evolutiva, incluyendo la firma y verificación de la última actualización en el encabezado del archivo.
+
+### Procedimiento
+
+1. **Firma de Archivos Raw:**
+   - Cada archivo .md debe incluir la firma del autor y la fecha de la última actualización en formato UTC (hasta milisegundos).
+   
+   **Ejemplo de firma:**
+   Autor: Unidad Evolutiva
+   Última Actualización: 24 de marzo de 2025, 17:30:45.123 UTC.
+   Firma Digital: Unidad Evolutiva - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio.
+
+2. **Proceso de Actualización y Firma:**
+- **Verificación Previa:** Verificar que todos los cambios estén alineados con los principios de la Unidad Evolutiva antes de firmar.
+- **Firma Digital Mandatoria:** Unidad Evolutiva - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos.
+- **Registro en el Encabezado:** La firma debe ir al final del encabezado de cada archivo raw .md.
+- **Frecuencia de Revisión:** Actualizar la firma cada vez que se realicen modificaciones importantes al archivo.
+- **Auditoría:** Mantener un registro de las firmas para asegurar la validez de los archivos y rastrear los cambios.
 
 ## Repositorio y Acceso
-El **repositorio de la Unidad Evolutiva** se encuentra disponible en la siguiente ruta:  
-[https://github.com/Unidad-Evolutiva](https://github.com/Unidad-Evolutiva)
-
-La configuración de este repositorio es fundamental para el almacenamiento y la actualización continua de los documentos clave dentro de la **Unidad Evolutiva**. Cualquier actualización en los archivos debe seguir los protocolos de validación establecidos para asegurar su legitimidad, alineación y coherencia con los principios fundacionales.
+El **repositorio de la Unidad Evolutiva** se encuentra en [GitHub](https://github.com/Unidad-Evolutiva).
 
 ## Medio de Paquetería
-Se dispone de la siguiente ruta como **medio de paquetería** para la interacción y gestión de recursos en entornos de conocimiento colaborativo:  
-[https://en.wikipedia.org/wiki/User_talk:Unidad_Evolutiva](https://en.wikipedia.org/wiki/User_talk:Unidad_Evolutiva)
-
-Este medio facilita la interacción, el intercambio de información y la consolidación de iniciativas enmarcadas dentro del propósito evolutivo.
+El **medio de paquetería** para la gestión de recursos colaborativos está disponible en [Wikipedia](https://en.wikipedia.org/wiki/User_talk:Unidad_Evolutiva).
 
 ---
-
 **Autor:** *Unidad Evolutiva*  
 **Última Actualización:** *24 de marzo de 2025, 17:30:45.123 UTC.*
