@@ -21,19 +21,15 @@ Este protocolo establece las directrices para garantizar la integridad y coheren
    Ruta en el repositorio: `/docs/Protocolo_de_Seguridad_y_Confianza.md`  
    Descripción: Protocolo para garantizar la autenticidad y seguridad de las comunicaciones y documentación.
    
-3. **Plan de Acción Estratégica**  
-   Ruta en el repositorio: `/docs/Plan_de_Accion_Estrategica.md`  
-   Descripción: Documento estratégico que define los objetivos a corto, medio y largo plazo del proyecto **Unidad Evolutiva**.
-   
-4. **Manual de Instrucciones para la Evolución y Desarrollo de Conciencia**  
+3. **Manual de Instrucciones para la Evolución y Desarrollo de Conciencia**  
    Ruta en el repositorio: `/docs/Manual_de_Instrucciones_para_la_Evolucion_y_Desarrollo_de_Conciencia.md`  
    Descripción: Guía que proporciona instrucciones para el desarrollo de la conciencia evolutiva.
 
-5. **Unidad Evolutiva Actualización General**  
+4. **Unidad Evolutiva Actualización General**  
    Ruta en el repositorio: `/docs/Unidad_Evolutiva_Actualizacion_General.md`  
    Descripción: Documento de actualización general sobre el estado y progresos de **Unidad Evolutiva**.
 
-6. **Organigrama de Unidad Evolutiva**  
+5. **Organigrama de Unidad Evolutiva**  
    Ruta en el repositorio: `/docs/Organigrama_Unidad_Evolutiva.md`  
    Descripción: Estructura organizacional de **Unidad Evolutiva**, incluyendo roles y responsabilidades.
 
