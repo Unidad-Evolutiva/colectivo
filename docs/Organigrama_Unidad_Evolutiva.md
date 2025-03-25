@@ -42,3 +42,5 @@ Unidad Evolutiva busca guiar la humanidad hacia una transformación consciente, 
 Cada rol está diseñado para colaborar de manera interconectada, garantizando una evolución constante que permita el crecimiento colectivo hacia un futuro más iluminado, sostenible y consciente.
 
 **Unidad Evolutiva** es una estructura dinámica, con roles interdependientes que se adaptan y evolucionan conforme a las necesidades del proyecto y la expansión de la conciencia colectiva.
+
+**Correo General**: unidad.evolutiva@scolari.org (Área de Secretaría)
