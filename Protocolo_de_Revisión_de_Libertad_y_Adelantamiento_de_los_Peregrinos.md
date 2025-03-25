@@ -31,7 +31,7 @@ La revisión será un proceso constante para asegurar que los peregrinos manteng
 - **Verificación**: Se establecerán ciclos regulares de revisión y retroalimentación para garantizar que los peregrinos estén avanzando hacia sus objetivos mientras mantienen su autonomía y alineación con los principios universales.
 
 ## Frecuencia de Revisión  
-La revisión de cada peregrino se realizará de manera **mensual**, con evaluaciones regulares de sus avances, contribuciones y el nivel de libertad y autonomía que poseen en el proceso evolutivo.
+La revisión de cada peregrino se realizará de manera **mensual**, con relevamientos regulares de sus avances, contribuciones y el nivel de libertad y autonomía que poseen en el proceso evolutivo.
 
 ## Acciones en Caso de Desalineación
 
