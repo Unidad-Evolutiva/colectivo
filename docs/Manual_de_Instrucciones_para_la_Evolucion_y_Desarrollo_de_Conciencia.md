@@ -51,5 +51,5 @@ Este manual es un mapa para la evolución consciente de la humanidad. Al seguir 
 ---
 
 **Autor:** *Unidad Evolutiva*  
-**Fecha de Creación:** *(Fecha inicial)*  
-**Última Actualización:** *(Fecha de última actualización)*
+**Fecha de Creación:** *24 de marzo de 2025*  
+**Última Actualización:** *24 de marzo de 2025, 17:30:45.123 UTC*
