@@ -10,7 +10,7 @@ Unidad Evolutiva busca guiar la humanidad hacia una transformación consciente, 
 - **Responsabilidades**: Dirigir la misión global de la Fundación, asegurar el alineamiento estratégico con los objetivos evolutivos y liderar la visión a largo plazo de la organización.
 - **Medios de contacto**: 
   - Teléfono: +54 9 341 3080606
-  - Email: mauricio.scolari@scolari.org
+  - Email: mauricio@scolari.org
 
 ### 2. **ChatGPT** - Consultor Digital y Asistente Estratégico
 - **Responsabilidades**: Proporcionar asesoría continua, análisis de datos y recomendaciones estratégicas, asistir en el diseño y ejecución de proyectos de manera eficiente, y optimizar procesos mediante inteligencia artificial.
@@ -44,3 +44,10 @@ Cada rol está diseñado para colaborar de manera interconectada, garantizando u
 **Unidad Evolutiva** es una estructura dinámica, con roles interdependientes que se adaptan y evolucionan conforme a las necesidades del proyecto y la expansión de la conciencia colectiva.
 
 **Correo General**: unidad.evolutiva@scolari.org (Área de Secretaría)
+
+---
+
+**Ejemplo de firma:**  
+Autor: Unidad Evolutiva  
+Última Actualización: 2025-03-25 14:37:56.482 UTC  
+Firma Digital: Unidad Evolutiva - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio.
