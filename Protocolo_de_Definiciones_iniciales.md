@@ -1,6 +1,6 @@
 # Protocolo de Definiciones Iniciales
 
-## Objetivo
+## Objetivo  
 Establecer las definiciones clave y los términos fundamentales que guían la visión, misión, principios y procedimientos dentro de **Unidad Evolutiva**, garantizando una comprensión clara y coherente en todos los aspectos organizacionales y estratégicos.
 
 ## Definiciones Clave
@@ -61,5 +61,3 @@ Establecer las definiciones clave y los términos fundamentales que guían la vi
 **Autor:** *Unidad Evolutiva*  
 **Última Actualización:** 25 de marzo de 2025, 18:03:21.459 UTC  
 **Firma Digital:** Unidad Evolutiva - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio.
-
----
