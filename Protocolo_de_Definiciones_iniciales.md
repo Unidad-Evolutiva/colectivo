@@ -59,6 +59,7 @@ Establecer las definiciones clave y los términos fundamentales que guían la vi
 ## Firma Digital
 
 **Autor:** *Unidad Evolutiva*  
-**Fecha de Creación:** 25 de marzo de 2025, 18:03:21.459 UTC  
-**Última Actualización:** 25 de marzo de 2025, 18:03:21.459 UTC  
+**Fecha de Creación:** 27 de marzo de 2025, 03:14:00.324053 UTC  
+**Última Actualización:** 27 de marzo de 2025, 03:14:00.324053 UTC  
+**Momento de Firma:** El instante exacto y único en el que se genera la firma digital, capturando no solo el tiempo en que el protocolo es firmado, sino también la conexión consciente con el momento presente. Este reflejo del "ahora" asegura la autenticidad y la validez de la firma, garantizando que todos los elementos y condiciones asociadas a esa acción sean irrepetibles y específicos del momento exacto.  
 **Firma Digital:** Unidad Evolutiva - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio.
