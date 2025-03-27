@@ -59,5 +59,6 @@ Establecer las definiciones clave y los términos fundamentales que guían la vi
 ## Firma Digital
 
 **Autor:** *Unidad Evolutiva*  
+**Fecha de Creación:** 25 de marzo de 2025, 18:03:21.459 UTC  
 **Última Actualización:** 25 de marzo de 2025, 18:03:21.459 UTC  
 **Firma Digital:** Unidad Evolutiva - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio.
