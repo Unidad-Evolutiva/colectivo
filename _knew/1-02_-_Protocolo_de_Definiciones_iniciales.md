@@ -45,13 +45,39 @@ Establecer las definiciones clave y los términos fundamentales que guían la vi
     *Descripción:* La misión última de **Unidad Evolutiva** de contribuir al desarrollo colectivo de la humanidad y la expansión de la conciencia a nivel planetario y cósmico.  
     *Propósito:* Guiar todas las acciones y estrategias hacia la creación de un mundo más consciente, conectado y evolutivo.
 
-11. **Pie de Contenido**  
-    *Descripción:* Elemento estructural que valida y refuerza la información presentada en el documento, asegurando su coherencia y aplicabilidad en distintos contextos de actualización y evolución del contenido.  
-    *Propósito:* Garantizar que el contenido esté alineado con las definiciones clave, reflejando cada intervención o actualización dentro de su estructura, mientras asegura que cada proceso relacionado esté debidamente registrado y trazado.  
-    *Elementos del Pie de Contenido:*
-    - **Instante Procesado**  
-      *Descripción:* El **Instante Procesado** se refiere al momento exacto en el que se lleva a cabo cualquier intervención, modificación o actualización del contenido. Esto incluye cualquier acción relacionada con el contenido, como lecturas o actualizaciones.  
-      *Propósito:* Garantizar que cada acción realizada sobre el contenido esté registrada con precisión, permitiendo una trazabilidad detallada de las modificaciones realizadas a lo largo del tiempo.
+11. **Pie de Contenido**
+
+   **Descripción:**  
+   El **Pie de Contenido** es un componente estructural clave que garantiza la coherencia y trazabilidad de las modificaciones dentro de un documento a lo largo de su evolución. Registra todos los momentos de intervención, desde la observación cuántica del contenido hasta su redacción y modificación final.
+
+   **Propósito:**  
+   Asegurar que el contenido esté alineado con las definiciones clave, reflejando cada acción, intervención o actualización, y asegurando que se mantenga la integridad de los datos durante el proceso de evolución. El propósito es permitir un seguimiento exacto de los cambios realizados en el contenido desde cualquier observación, ya sea física o cuántica, hasta su escritura y presentación final.
+
+   **Elementos del Pie de Contenido:**
+
+   1. **Valores Refrescables**  
+      - **Descripción:** Elementos del contenido que se actualizan automáticamente con cada intervención, tales como cualquier dato relacionado con el **momento presente** de la intervención.  
+      - **Propósito:** Asegurar que todos los valores en el documento se mantengan actualizados sin intervención manual, garantizando coherencia en el tiempo. Este enfoque aplica a todos los valores temporales, que deben ser registrados con la máxima precisión disponible, reflejando siempre el **momento presente** en cada intervención o modificación.
+
+      - **Precisión de las Instantáneas:** Todos los **Valores Refrescables** relacionados con el tiempo se registrarán con la máxima precisión posible, acorde a las capacidades tecnológicas disponibles. Esto incluye los valores relevantes, los cuales se mantendrán con el nivel más detallado y exacto posible, asegurando que las actualizaciones reflejen siempre el **momento presente** en su contexto exacto.
+
+   2. **Instante Procesado**  
+      - **Descripción:** El **Instante Procesado** se refiere al momento exacto en que cualquier tipo de intervención o actualización del contenido ocurre, desde la perspectiva de la observación cuántica hasta la intervención física. Este instante cubre todas las fases: desde la observación inicial hasta la acción final de escritura o modificación.  
+      - **Propósito:** Garantizar que cada acción sobre el contenido esté registrada con la mayor precisión temporal posible. Esto permite un seguimiento detallado de las intervenciones y asegura la trazabilidad con el máximo nivel de exactitud. Además, **todo valor de instantánea se tomará del preciso momento presente** para garantizar la máxima precisión en cada intervención.
+
+   3. **Firma Digital**  
+      - **Descripción:** Proceso formal mediante el cual se valida electrónicamente la autenticidad de un documento, asegurando que no ha sido alterado desde su firma y que la intervención es legítima.  
+      - **Propósito:** Garantizar la integridad, autenticidad y no repudio del contenido, validando que el documento no ha sido modificado desde su firma y permitiendo identificar al autor y al momento exacto de la intervención.
+
+12. **Chequeo del Pie de Contenido**  
+   - **Descripción:**  
+     Después de completar cada **Pie de Contenido**, se debe realizar un chequeo exhaustivo de los valores de **instantánea** y **momento presente**. Esto incluye cotejar la aproximación entre las instantáneas y el presente donde corresponda, asegurando que todos los valores temporales estén alineados con la intervención más reciente.  
+   - **Instrucciones para el Chequeo:**  
+     1. Verificar que los valores de **instantánea** coincidan con el momento de intervención más reciente.
+     2. Asegurar que las **instantáneas** estén ajustadas al momento presente con la mayor precisión posible.
+     3. Cotejar los valores temporales para asegurar que no haya desajustes entre las distintas instantáneas.
+     4. Confirmar que todos los **Valores Refrescables** sean actualizados correctamente para reflejar el momento exacto de la intervención.
+     5. Realizar un último chequeo antes de la firma digital para validar la autenticidad y precisión del documento.
 
 ## Procedimientos de Implementación
 
@@ -59,14 +85,14 @@ Establecer las definiciones clave y los términos fundamentales que guían la vi
    *Descripción:* Métodos colaborativos que integran diversas disciplinas (tecnología, espiritualidad, sostenibilidad, etc.) para desarrollar soluciones holísticas y creativas dentro de **Unidad Evolutiva**.
 
 2. **Interacción Colaborativa**  
-   *Descripción:* Enfoque de trabajo conjunto, en el que los miembros de **Unidad Evolutiva** participan activamente en el intercambio de ideas y recursos, respetando las diferencias y fomentando la integración.
+   *Descripción:* Enfoque de trabajo conjunto en el que los miembros de **Unidad Evolutiva** participan activamente en el intercambio de ideas y recursos, respetando las diferencias y fomentando la integración.
 
 3. **Evaluación Continua**  
    *Descripción:* Evaluación regular de los resultados obtenidos por cada miembro y proceso dentro de la organización, asegurando que todos estén alineados con los principios fundamentales y objetivos estratégicos.
 
 4. **Aplicación en cada Proceso de Material**  
    *Descripción:* Implementación del "Pie de Contenido" en cada presentación del contenido, asegurando su integración con la estructura del documento y su alineación con las definiciones clave.  
-   *Propósito:* Mantener la coherencia y la evolución de la información en función del crecimiento organizacional y del avance del conocimiento colectivo.
+   *Propósito:* Mantener la coherencia y la evolución de la información en función del crecimiento organizacional y el avance del conocimiento colectivo.
 
 ## Firma Digital
 
