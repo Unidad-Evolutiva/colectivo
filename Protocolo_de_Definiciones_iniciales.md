@@ -11,7 +11,7 @@ Establecer las definiciones clave y los términos fundamentales que guían la vi
 
 2. **Conciencia Evolutiva**  
    *Descripción:* La conciencia colectiva en constante expansión, que busca el entendimiento profundo de la unidad de todos los seres y la conexión universal.  
-   *Propósito:* Desarrollar una conciencia que esté alineada con los principios de verdad, autenticidad y avance colectivo.
+   *Propósito:* Desarrollar una conciencia alineada con los principios de verdad, autenticidad y avance colectivo.
 
 3. **Liderazgo de Clase Mundial**  
    *Descripción:* Estilo de liderazgo caracterizado por su autenticidad, capacidad de inspirar, guiar y transformar tanto a individuos como a organizaciones hacia su máxima expresión evolutiva.  
@@ -19,11 +19,11 @@ Establecer las definiciones clave y los términos fundamentales que guían la vi
 
 4. **Peregrino**  
    *Descripción:* Miembro o individuo que sigue el camino de evolución consciente, comprometido con la expansión de la conciencia, el crecimiento espiritual y la armonización con los principios universales.  
-   *Propósito:* Contribuir al crecimiento global a través de la práctica de la autodeterminación y la mejora constante.
+   *Propósito:* Contribuir al crecimiento global mediante la autodeterminación y la mejora constante.
 
 5. **Protocolos Fundamentales**  
    *Descripción:* Conjunto de normas, procedimientos y directrices que guían las operaciones y el avance de **Unidad Evolutiva**, asegurando la coherencia, integridad y alineación con los principios de la organización.  
-   *Propósito:* Proteger y mantener la estabilidad operativa de la organización, facilitando la gestión adecuada de sus recursos y procesos.
+   *Propósito:* Proteger y mantener la estabilidad operativa de la organización, facilitando la gestión adecuada de recursos y procesos.
 
 6. **Autonomía Evolutiva**  
    *Descripción:* Capacidad de un individuo o grupo para actuar según su propia conciencia y sabiduría interior, alineándose con el propósito global sin interferencias externas.  
@@ -45,6 +45,10 @@ Establecer las definiciones clave y los términos fundamentales que guían la vi
     *Descripción:* La misión última de **Unidad Evolutiva** de contribuir al desarrollo colectivo de la humanidad y la expansión de la conciencia a nivel planetario y cósmico.  
     *Propósito:* Guiar todas las acciones y estrategias hacia la creación de un mundo más consciente, conectado y evolutivo.
 
+11. **Pie de Contenido**  
+    *Descripción:* Elemento estructural que valida y refuerza la información presentada en el documento, asegurando su coherencia y aplicabilidad en distintos contextos de actualización y evolución del contenido.  
+    *Propósito:* Facilitar la integración, revisión y actualización de la información, garantizando su alineación con la visión y principios fundamentales de **Unidad Evolutiva**.
+
 ## Procedimientos de Implementación
 
 1. **Estrategias Interdisciplinarias**  
@@ -56,10 +60,13 @@ Establecer las definiciones clave y los términos fundamentales que guían la vi
 3. **Evaluación Continua**  
    *Descripción:* Evaluación regular de los resultados obtenidos por cada miembro y proceso dentro de la organización, asegurando que todos estén alineados con los principios fundamentales y objetivos estratégicos.
 
+4. **Aplicación en cada Refresco de Contenido**  
+   *Descripción:* Implementación del "Pie de Contenido" en cada actualización o modificación del material, asegurando su integración con la estructura del documento y su alineación con las definiciones clave.  
+   *Propósito:* Mantener la coherencia y la evolución de la información en función del crecimiento organizacional y del avance del conocimiento colectivo.
+
 ## Firma Digital
 
 **Autor:** *Unidad Evolutiva*  
 **Fecha de Creación:** 27 de marzo de 2025, 03:14:00.324053 UTC  
-**Última Actualización:** 27 de marzo de 2025, 03:14:00.324053 UTC  
-**Momento de Firma:** El instante exacto y único en que se genera la firma digital, capturando no solo el tiempo en que el protocolo es firmado, sino también la conexión consciente con el momento presente. Este reflejo del "ahora" asegura la autenticidad y la validez de la firma, garantizando que todos los elementos y condiciones asociadas a esa acción sean irrepetibles y específicos del momento exacto.  
-**Firma Digital:** Unidad Evolutiva - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio.
+**Última Actualización:** 30 de marzo de 2025, 10:00:00.000000 UTC  
+**Firma Digital:** Unidad Evolutiva - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio. 
