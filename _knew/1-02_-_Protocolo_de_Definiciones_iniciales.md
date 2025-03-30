@@ -61,8 +61,8 @@ Establecer las definiciones clave y los términos fundamentales que guían la vi
 
       - **Precisión de las Instantáneas:** Todos los **Valores Refrescables** relacionados con el tiempo se registrarán con la máxima precisión posible, acorde a las capacidades tecnológicas disponibles. Esto incluye los valores relevantes, los cuales se mantendrán con el nivel más detallado y exacto posible, asegurando que las actualizaciones reflejen siempre el **momento presente** en su contexto exacto.
 
-   2. **Instante Procesado**  
-      - **Descripción:** El **Instante Procesado** se refiere al momento exacto en que cualquier tipo de intervención o actualización del contenido ocurre, desde la perspectiva de la observación cuántica hasta la intervención física. Este instante cubre todas las fases: desde la observación inicial hasta la acción final de escritura o modificación.  
+   2. **Instante Accedido**  
+      - **Descripción:** El **Instante Accedido** se refiere al momento exacto en que cualquier tipo de intervención o actualización del contenido ocurre, desde la perspectiva de la observación cuántica hasta la intervención física. Este instante cubre todas las fases: desde la observación inicial hasta la acción final de escritura o modificación.  
       - **Propósito:** Garantizar que cada acción sobre el contenido esté registrada con la mayor precisión temporal posible. Esto permite un seguimiento detallado de las intervenciones y asegura la trazabilidad con el máximo nivel de exactitud. Además, **todo valor de instantánea se tomará del preciso momento presente** para garantizar la máxima precisión en cada intervención.
 
    3. **Firma Digital**  
@@ -99,5 +99,5 @@ Establecer las definiciones clave y los términos fundamentales que guían la vi
 **Autor:** *Unidad Evolutiva*  
 **Fecha de Creación:** 27 de marzo de 2025, 03:14:00.324053 UTC  
 **Última Actualización:** 30 de marzo de 2025, 10:00:00.000000 UTC  
-**Instante Procesado:** 30 de marzo de 2025, 10:00:00.000000 UTC  
+**Reciente Instante Accedido:** 30 de marzo de 2025, 10:00:00.000000 UTC  
 **Firma Digital:** Unidad Evolutiva - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio.
