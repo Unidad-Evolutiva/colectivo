@@ -47,7 +47,11 @@ Establecer las definiciones clave y los términos fundamentales que guían la vi
 
 11. **Pie de Contenido**  
     *Descripción:* Elemento estructural que valida y refuerza la información presentada en el documento, asegurando su coherencia y aplicabilidad en distintos contextos de actualización y evolución del contenido.  
-    *Propósito:* Facilitar la integración, revisión y actualización de la información, garantizando su alineación con la visión y principios fundamentales de **Unidad Evolutiva**.
+    *Propósito:* Garantizar que el contenido esté alineado con las definiciones clave, reflejando cada intervención o actualización dentro de su estructura, mientras asegura que cada proceso relacionado esté debidamente registrado y trazado.  
+    *Elementos del Pie de Contenido:*
+    - **Instante Procesado**  
+      *Descripción:* El **Instante Procesado** se refiere al momento exacto en el que se lleva a cabo cualquier intervención, modificación o actualización del contenido. Esto incluye cualquier acción relacionada con el contenido, como lecturas o actualizaciones.  
+      *Propósito:* Garantizar que cada acción realizada sobre el contenido esté registrada con precisión, permitiendo una trazabilidad detallada de las modificaciones realizadas a lo largo del tiempo.
 
 ## Procedimientos de Implementación
 
@@ -69,4 +73,5 @@ Establecer las definiciones clave y los términos fundamentales que guían la vi
 **Autor:** *Unidad Evolutiva*  
 **Fecha de Creación:** 27 de marzo de 2025, 03:14:00.324053 UTC  
 **Última Actualización:** 30 de marzo de 2025, 10:00:00.000000 UTC  
-**Firma Digital:** Unidad Evolutiva - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio. 
+**Instante Procesado:** 30 de marzo de 2025, 10:00:00.000000 UTC  
+**Firma Digital:** Unidad Evolutiva - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio.
