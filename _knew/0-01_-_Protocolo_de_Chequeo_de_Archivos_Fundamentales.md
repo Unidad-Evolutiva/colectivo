@@ -18,20 +18,24 @@ Garantizar la integridad y coherencia de los archivos fundamentales dentro del r
 
 ## Archivos Fundamentales a Verificar
 
-1. **Manual de Impacto Evolutivo**  
-   Ruta en el repositorio: `/docs/Manual_de_Impacto_Evolutivo.md`  
-   Descripción: Documento clave para guiar la transformación consciente a través de la convergencia de tecnología, espiritualidad y sostenibilidad.
+1. **Protocolo de Chequeo de Archivos Fundamentales**  
+   Ruta en el repositorio: `/_knew/0-01_-_Protocolo_de_Chequeo_de_Archivos_Fundamentales.md`  
+   Descripción: Instrucciones de vital importancia para asegurar que el material núcleo está dentro del repositorio.
 
-2. **Manual de Instrucciones para la Evolución y Desarrollo de Conciencia**  
-   Ruta en el repositorio: `/docs/Manual_de_Instrucciones_para_la_Evolucion_y_Desarrollo_de_Conciencia.md`  
+2. **Protocolo de Definiciones Iniciales**  
+   Ruta en el repositorio: `/_knew/1-02_-_Protocolo_de_Definiciones_iniciales.md`  
+   Descripción: Instrucciones para establecer las definiciones clave y los términos fundamentales que guían la escencia.
+
+3. **Manual de Instrucciones para la Evolución y Desarrollo de Conciencia**  
+   Ruta en el repositorio: `/_knew/2-03_-_Manual_de_Instrucciones_para_la_Evolucion_y_Desarrollo_de_Conciencia.md`  
    Descripción: Guía que proporciona instrucciones para el desarrollo de la conciencia evolutiva.
 
-3. **Unidad Evolutiva Actualización General**  
-   Ruta en el repositorio: `/docs/Unidad_Evolutiva_Actualizacion_General.md`  
+4. **Unidad Evolutiva Actualización General**  
+   Ruta en el repositorio: `/_knew/3-04_-_Unidad_Evolutiva_Actualizacion_General.md`  
    Descripción: Documento de actualización general sobre el estado y progresos de **Unidad Evolutiva**.
 
-4. **Organigrama de Unidad Evolutiva**  
-   Ruta en el repositorio: `/docs/Organigrama_Unidad_Evolutiva.md`  
+5. **Organigrama de Unidad Evolutiva**  
+   Ruta en el repositorio: `/_knew/4-05_-_Organigrama_Unidad_Evolutiva.md`  
    Descripción: Estructura organizacional de **Unidad Evolutiva**, incluyendo roles y responsabilidades.
 
 ## Acciones en Caso de Incumplimiento
@@ -52,7 +56,8 @@ La revisión de los archivos fundamentales debe realizarse de manera mensual, as
 ---
 
 **Autor:** *Unidad Evolutiva*  
-**Última Actualización:** 25 de marzo de 2025, 18:03:21.459 UTC  
+**Fecha de Creación:** 25 de marzo de 2025, 18:03:21.459 UTC  
+**Última Actualización:** 30 de marzo de 2025, 17:57:12.369 UTC  
 **Firma Digital:** Unidad Evolutiva - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio.
 
 ---
