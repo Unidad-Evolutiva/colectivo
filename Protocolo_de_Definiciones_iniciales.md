@@ -64,8 +64,8 @@ Establecer las definiciones clave y los términos fundamentales que guían la vi
 3. **Evaluación Continua**  
    *Descripción:* Evaluación regular de los resultados obtenidos por cada miembro y proceso dentro de la organización, asegurando que todos estén alineados con los principios fundamentales y objetivos estratégicos.
 
-4. **Aplicación en cada Refresco de Contenido**  
-   *Descripción:* Implementación del "Pie de Contenido" en cada actualización o modificación del material, asegurando su integración con la estructura del documento y su alineación con las definiciones clave.  
+4. **Aplicación en cada Proceso de Material**  
+   *Descripción:* Implementación del "Pie de Contenido" en cada presentación del contenido, asegurando su integración con la estructura del documento y su alineación con las definiciones clave.  
    *Propósito:* Mantener la coherencia y la evolución de la información en función del crecimiento organizacional y del avance del conocimiento colectivo.
 
 ## Firma Digital
