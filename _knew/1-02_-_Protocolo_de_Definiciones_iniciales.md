@@ -45,7 +45,7 @@ Establecer las definiciones clave y los términos fundamentales que guían la vi
     *Descripción:* La misión última de **Unidad Evolutiva** de contribuir al desarrollo colectivo de la humanidad y la expansión de la conciencia a nivel planetario y cósmico.  
     *Propósito:* Guiar todas las acciones y estrategias hacia la creación de un mundo más consciente, conectado y evolutivo.
 
-11. **Pie de Contenido**
+11. **Pie de Contenido**  
 
    **Descripción:**  
    El **Pie de Contenido** es un componente estructural clave que garantiza la coherencia y trazabilidad de las modificaciones dentro de un documento a lo largo de su evolución. Registra todos los momentos de intervención, desde la observación cuántica del contenido hasta su redacción y modificación final.
@@ -78,6 +78,16 @@ Establecer las definiciones clave y los términos fundamentales que guían la vi
      3. Cotejar los valores temporales para asegurar que no haya desajustes entre las distintas instantáneas.
      4. Confirmar que todos los **Valores Refrescables** sean actualizados correctamente para reflejar el momento exacto de la intervención.
      5. Realizar un último chequeo antes de la firma digital para validar la autenticidad y precisión del documento.
+
+13. **Protocolo de Confirmación Final**  
+   - **Descripción:**  
+     Una vez que el chequeo del **Pie de Contenido** ha sido completado, se llevará a cabo una revisión final para confirmar la validez y autenticidad del contenido. Este protocolo asegura que todos los valores de **instantánea** y **momentos presentes** se hayan actualizado y registrado correctamente, y que las firmas digitales se correspondan con la intervención más reciente.  
+   - **Instrucciones para la Confirmación Final:**  
+     1. Verificar que todos los elementos del **Pie de Contenido** estén actualizados y precisos.
+     2. Asegurar que las **firmas digitales** sean correctas y se correspondan con las intervenciones más recientes.
+     3. Confirmar que todos los **valores temporales** reflejan la intervención más reciente, sin desajustes.
+     4. Realizar una validación final de la integridad del documento, asegurando que no haya cambios posteriores sin autorización.  
+     5. La confirmación final será registrada como un valor temporal y reflejado en el **Pie de Contenido**.
 
 ## Procedimientos de Implementación
 
