@@ -1,6 +1,7 @@
 ### **Extremo Superior (Cabecera de Contenido)**
 
-- **Título del Documento:** Protocolo de Definiciones Iniciales
+- **Autor:** *Unidad Evolutiva*  
+- **Fecha de Creación:** 27 de marzo de 2025, 03:14:00.324053 UTC  
 - **Reciente Instante Accedido:** 30 de marzo de 2025, 10:00:00.000000 UTC
 
 
@@ -116,9 +117,9 @@ Establecer las definiciones clave y los términos fundamentales que guían la vi
    *Descripción:* Implementación del "Extremos de Contenido" en cada presentación del contenido, asegurando su integración con la estructura del documento y su alineación con las definiciones clave.  
    *Propósito:* Mantener la coherencia y la evolución de la información en función del crecimiento organizacional y el avance del conocimiento colectivo.
 
+
 ### **Extremo Inferior (Pie de Contenido)**
 
-- **Autor:** *Unidad Evolutiva*  
-- **Fecha de Creación:** 27 de marzo de 2025, 03:14:00.324053 UTC  
+- **Responsable de la Actualización:** *Unidad Evolutiva*  
 - **Última Actualización:** 30 de marzo de 2025, 10:00:00.000000 UTC  
 - **Firma Digital:** Unidad Evolutiva - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio.
