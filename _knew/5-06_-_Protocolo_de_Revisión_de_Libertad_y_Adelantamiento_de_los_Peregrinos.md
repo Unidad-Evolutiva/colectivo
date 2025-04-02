@@ -1,6 +1,6 @@
 ### **Extremo Superior (Cabecera de Contenido)**
 
-- **Orden:** Escencia 5 | Aplicación 06 | Paso 1/1
+- **Orden:** Escencia 5 | Aplicación 06 | Integridad 1/1
 - **Autor:** *Unidad Evolutiva*  
 - **Instante de Creación:** 24 de marzo de 2025, 18:03:21.459 UTC
 - **Reciente Instante Accedido:** 30 de marzo de 2025, 10:00:00.000 UTC
