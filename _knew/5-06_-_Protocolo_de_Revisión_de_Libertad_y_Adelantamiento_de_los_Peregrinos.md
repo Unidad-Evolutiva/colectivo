@@ -1,3 +1,12 @@
+### **Extremo Superior (Cabecera de Contenido)**
+
+- **Autor:** *Unidad Evolutiva*  
+- **Instante de Creación:** 24 de marzo de 2025, 18:03:21.459 UTC
+- **Reciente Instante Accedido:** 30 de marzo de 2025, 10:00:00.000 UTC
+- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504/`
+- **Ruta de Publicación:** `https://github.com/Unidad-Evolutiva/main/blob/main/`
+- **Nombre Completo:** `_knew/5-06_-_Protocolo_de_Revisión_de_Libertad_y_Adelantamiento_de_los_Peregrinos.md`
+
 # Protocolo de Revisión de Libertad y Adelantamiento de los Peregrinos
 
 ## Propósito  
@@ -41,7 +50,10 @@ La revisión de cada peregrino se realizará de manera **mensual**, con relevami
 2. **Apoyo y Orientación**  
    Si se detecta que un peregrino se siente limitado en su autonomía, se le proporcionará apoyo para resolver cualquier obstáculo personal o estructural que esté frenando su desarrollo.
 
----
 
-**Autor:** *Unidad Evolutiva*  
-**Última Actualización:** *24 de marzo de 2025, 18:03:21.459 UTC*
+### **Extremo Inferior (Pie de Contenido)**
+
+- **Responsable de la Actualización:** *Unidad Evolutiva*  
+- **Reciente Instante de la Actualización:** 24 de marzo de 2025, 18:03:21.459 UTC   
+- **Reciente Métrica de Contenido:** 60 líneas | 0 palabras | 0 caracteres  
+- **Firma Digital:** Unidad Evolutiva - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio.
