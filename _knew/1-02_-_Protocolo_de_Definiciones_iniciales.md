@@ -1,7 +1,7 @@
 ### **Extremo Superior (Cabecera de Contenido)**
 
 - **Autor:** *Unidad Evolutiva*  
-- **Instante de Creación:** 24 de marzo de 2025, 03:00:00.000 UTC  
+- **Instante de Creación:** 24 de marzo de 2025, 03:00:00.000 UTC
 - **Reciente Instante Accedido:** 30 de marzo de 2025, 10:00:00.000 UTC
 - **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504/`
 - **Ruta de Publicación:** `https://github.com/Unidad-Evolutiva/main/blob/main/`
