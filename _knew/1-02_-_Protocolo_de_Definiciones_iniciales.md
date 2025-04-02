@@ -3,7 +3,7 @@
 - **Autor:** *Unidad Evolutiva*  
 - **Fecha de Creación:** 27 de marzo de 2025, 03:14:00.000 UTC  
 - **Reciente Instante Accedido:** 30 de marzo de 2025, 10:00:00.000 UTC
-- **Entrelazamiento:** /silex/esencia/momentum/20250330/_knew/1-02_-_Protocolo_de_Definiciones_iniciales.md
+- **Entrelazamiento:** `/silex/esencia/momentum/20250330/_knew/1-02_-_Protocolo_de_Definiciones_iniciales.md`
 
 
 # Protocolo de Definiciones Iniciales
