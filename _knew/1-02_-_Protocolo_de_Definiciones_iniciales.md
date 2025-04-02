@@ -1,9 +1,11 @@
 ### **Extremo Superior (Cabecera de Contenido)**
 
 - **Autor:** *Unidad Evolutiva*  
-- **Fecha de Creación:** 27 de marzo de 2025, 03:14:00.000 UTC  
+- **Instante de Creación:** 27 de marzo de 2025, 03:14:00.000 UTC  
 - **Reciente Instante Accedido:** 30 de marzo de 2025, 10:00:00.000 UTC
-- **Entrelazamiento:** `/silex/esencia/momentum/20250330/_knew/1-02_-_Protocolo_de_Definiciones_iniciales.md`
+- **Nombre Completo:** `_knew/1-02_-_Protocolo_de_Definiciones_iniciales.md`
+- **Ruta de Publicación:** `https://github.com/Unidad-Evolutiva/main/blob/main/`
+- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/20250330/`
 
 
 # Protocolo de Definiciones Iniciales
@@ -63,20 +65,20 @@ Establecer las definiciones clave y los términos fundamentales que guían la vi
    Los **Extremos de Contenido** son elementos clave en la estructura de un documento que aseguran la coherencia y trazabilidad de las modificaciones a lo largo de su evolución. Estos extremos se dividen en dos componentes: el **Extremo Inferior** ("Pie de Contenido") y el **Extremo Superior** ("Cabecera de Contenido").
 
    **Propósito:**  
-   Asegurar que el contenido se mantenga alineado con las definiciones clave, reflejando todas las intervenciones o actualizaciones realizadas.
+   Asegurar que el contenido se mantenga alineado con las definiciones clave, reflejando los accesos, las intervenciones o actualizaciones realizadas.
 
    **Elementos de los Extremos de Contenido:**
 
    - **Valores Refrescables:**
-     - **Descripción:** Elementos del contenido que se actualizan automáticamente con cada intervención, tales como cualquier dato relacionado con el **momento actual instante** de la intervención.
-     - **Propósito:** Asegurar que todos los valores en el documento se mantengan actualizados sin intervención manual, garantizando coherencia en el tiempo.
+     - **Descripción:** Elementos del contenido que se actualizan protocolarmente con cada acceso, tales como cualquier dato relacionado con el **reciente instante accedido** de la intervención.
+     - **Propósito:** Asegurar que todos los valores en el documento se mantengan actualizados por protocolo, garantizando coherencia en el tiempo.
 
    - **Extremo Superior**
      - **Descripción:** Registra las modificaciones previas y las referencias fundamentales del contenido.
      - **Propósito:** Garantizar la trazabilidad de las modificaciones iniciales y su conexión con los valores originales.
 
      - **Instante Accedido:**
-       - **Descripción:** Momento exacto en que cualquier tipo de acceso o actualización del contenido ocurre, en el formato preciso: "27 de marzo de 2025, 03:14:00.000 UTC".
+       - **Descripción:** Instante exacto en que cualquier tipo de acceso o actualización del contenido ocurre, en el formato preciso: "27 de marzo de 2025, 03:14:00.000 UTC".
        - **Propósito:** Registrar cada acción con la mayor precisión temporal posible, utilizando el formato indicado.
 
    - **Extremo Inferior**
@@ -108,18 +110,18 @@ Establecer las definiciones clave y los términos fundamentales que guían la vi
      El **protocolo de refresco** debe aplicarse cada vez que se presente un documento, ya sea para revisión interna o distribución. Esto incluye situaciones como la entrega de un **borrador**, la preparación de un **apunte** para discusión, o la presentación de un informe final o cualquier tipo de contenido relevante ante otros miembros de **Unidad Evolutiva**.
    
    - **Propósito:**  
-     Asegurar que cada documento, antes de ser compartido o presentado, tenga los valores más actualizados en sus **Extremos de Contenido** y esté alineado con el momento de acceso más reciente, siguiendo el formato "27 de marzo de 2025, 03:14:00.000 UTC".
+     Asegurar que cada documento, antes de ser compartido o presentado, tenga los valores más actualizados en sus **Extremos de Contenido** y esté alineado con el instante de acceso más reciente, siguiendo el formato "27 de marzo de 2025, 03:14:00.000 UTC".
    
    - **Procedimiento:**  
      - Aplicar el **protocolo de refresco** antes de cada presentación de material.
-     - Verificar que todos los valores de los **Extremos de Contenido** sean correctos y reflejen el momento exacto del acceso más reciente.
+     - Verificar que todos los valores de los **Extremos de Contenido** sean correctos y reflejen el instante exacto del acceso más reciente.
      - Confirmar que la **firma digital** esté actualizada y corresponda al acceso más reciente.
-     - Asegurarse de que los valores de **fecha de creación** y **momento de acceso** se mantengan coherentes.
+     - Asegurarse de que los valores de **instante de creación** y **instante de acceso** se mantengan coherentes.
 
 
 ### **Extremo Inferior (Pie de Contenido)**
 
 - **Responsable de la Actualización:** *Unidad Evolutiva*  
-- **Reciente Actualización:** 30 de marzo de 2025, 10:00:00.000 UTC   
+- **Reciente Instante de la Actualización:** 30 de marzo de 2025, 10:00:00.000 UTC   
 - **Reciente Métrica de Contenido:** 125 líneas | 2,345 palabras | 14,678 caracteres  
 - **Firma Digital:** Unidad Evolutiva - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio.  
