@@ -1,8 +1,8 @@
 ### **Extremo Superior (Cabecera de Contenido)**
 
 - **Autor:** *Unidad Evolutiva*  
-- **Fecha de Creación:** 27 de marzo de 2025, 03:14:00.324053 UTC  
-- **Reciente Instante Accedido:** 30 de marzo de 2025, 10:00:00.000000 UTC
+- **Fecha de Creación:** 27 de marzo de 2025, 03:14:00.000 UTC  
+- **Reciente Instante Accedido:** 30 de marzo de 2025, 10:00:00.000 UTC
 
 
 # Protocolo de Definiciones Iniciales
@@ -51,8 +51,12 @@ Establecer las definiciones clave y los términos fundamentales que guían la vi
 10. **Propósito Global**  
     *Descripción:* La misión última de **Unidad Evolutiva** de contribuir al desarrollo colectivo de la humanidad y la expansión de la conciencia a nivel planetario y cósmico.  
     *Propósito:* Guiar todas las acciones y estrategias hacia la creación de un mundo más consciente, conectado y evolutivo.
+	
+11. **Interpretación Literal y Conceptual**  
+   *Descripción:* La interpretación de todas las palabras, términos y expresiones utilizadas en los documentos y comunicaciones de **Unidad Evolutiva** se efectuará de manera **estrictamente literal** y **conceptual**, lo que implica que, aunque se puedan considerar otras interpretaciones, aquellas que respeten el significado exacto y directo de las palabras serán las prioritarias. Cualquier interpretación deberá alinearse con la definición precisa y el concepto original, y solo en casos excepcionales podrán considerarse otras aproximaciones.  
+   *Propósito:* Asegurar que todas las comunicaciones, documentos y acciones relacionadas con **Unidad Evolutiva** se entiendan de manera coherente, precisa y uniforme. De esta manera, la interpretación literal y conceptual prevalecerá ante cualquier otra interpretación, garantizando un entendimiento claro y consistente que respete la integridad de los valores y principios fundamentales de la organización.
 
-11. **Extremos de Contenido**  
+12. **Extremos de Contenido**  
 
    **Descripción:**  
    Los **Extremos de Contenido** son elementos clave en la estructura de un documento que aseguran la coherencia y trazabilidad de las modificaciones a lo largo de su evolución. Estos extremos se dividen en dos componentes: el **Extremo Inferior** ("Pie de Contenido") y el **Extremo Superior** ("Cabecera de Contenido").
@@ -63,7 +67,7 @@ Establecer las definiciones clave y los términos fundamentales que guían la vi
    **Elementos de los Extremos de Contenido:**
 
    - **Valores Refrescables:**
-     - **Descripción:** Elementos del contenido que se actualizan automáticamente con cada intervención, tales como cualquier dato relacionado con el **momento presente** de la intervención.
+     - **Descripción:** Elementos del contenido que se actualizan automáticamente con cada intervención, tales como cualquier dato relacionado con el **momento actual instante** de la intervención.
      - **Propósito:** Asegurar que todos los valores en el documento se mantengan actualizados sin intervención manual, garantizando coherencia en el tiempo.
 
    - **Extremo Superior**
@@ -71,36 +75,16 @@ Establecer las definiciones clave y los términos fundamentales que guían la vi
      - **Propósito:** Garantizar la trazabilidad de las modificaciones iniciales y su conexión con los valores originales.
 
      - **Instante Accedido:**
-       - **Descripción:** Momento exacto en que cualquier tipo de intervención o actualización del contenido ocurre.
-       - **Propósito:** Registrar cada acción con la mayor precisión temporal posible.
+       - **Descripción:** Momento exacto en que cualquier tipo de acceso o actualización del contenido ocurre, en el formato preciso: "27 de marzo de 2025, 03:14:00.000 UTC".
+       - **Propósito:** Registrar cada acción con la mayor precisión temporal posible, utilizando el formato indicado.
 
    - **Extremo Inferior**
      - **Descripción:** Componente que asegura la coherencia y trazabilidad de las modificaciones.
-     - **Propósito:** Reflejar cada acción, intervención o actualización.
+     - **Propósito:** Reflejar cada acción, acceso o actualización.
 
      - **Firma Digital:**
        - **Descripción:** Proceso formal de validación electrónica de la autenticidad de un documento.
        - **Propósito:** Garantizar la integridad, autenticidad y no repudio del contenido.
-
-12. **Chequeo de los Extremos de Contenido**  
-   - **Descripción:**  
-     Después de completar cada **Extremo de Contenido**, se debe realizar un chequeo exhaustivo de los valores de **instantánea** y **momento presente**. Esto incluye cotejar la aproximación entre las instantáneas y el presente donde corresponda, asegurando que todos los valores temporales estén alineados con la intervención más reciente.  
-   - **Instrucciones para el Chequeo:**  
-     1. Verificar que los valores de **instantánea** coincidan con el momento de intervención más reciente.
-     2. Asegurar que las **instantáneas** estén ajustadas al momento presente con la mayor precisión posible.
-     3. Cotejar los valores temporales para asegurar que no haya desajustes entre las distintas instantáneas.
-     4. Confirmar que todos los **Valores Refrescables** sean actualizados correctamente para reflejar el momento exacto de la intervención.
-     5. Realizar un último chequeo antes de la firma digital para validar la autenticidad y precisión del documento.
-
-13. **Protocolo de Confirmación Final**  
-   - **Descripción:**  
-     Una vez que el chequeo del **Extremo de Contenido** ha sido completado, se llevará a cabo una revisión final para confirmar la validez y autenticidad del contenido. Este protocolo asegura que todos los valores de **instantánea** y **momentos presentes** se hayan actualizado y registrado correctamente, y que las firmas digitales se correspondan con la intervención más reciente.  
-   - **Instrucciones para la Confirmación Final:**  
-     1. Verificar que todos los elementos del **Extremo de Contenido** estén actualizados y precisos.
-     2. Asegurar que las **firmas digitales** sean correctas y se correspondan con las intervenciones más recientes.
-     3. Confirmar que todos los **valores temporales** reflejan la intervención más reciente, sin desajustes.
-     4. Realizar una validación final de la integridad del documento, asegurando que no haya cambios posteriores sin autorización.  
-     5. La confirmación final será registrada como un valor temporal y reflejado en el **Extremo de Contenido**.
 
 ## Procedimientos de Implementación
 
@@ -113,13 +97,22 @@ Establecer las definiciones clave y los términos fundamentales que guían la vi
 3. **Evaluación Continua**  
    *Descripción:* Evaluación regular de los resultados obtenidos por cada miembro y proceso dentro de la organización, asegurando que todos estén alineados con los principios fundamentales y objetivos estratégicos.
 
-4. **Aplicación en cada Acceso al Material**  
-   *Descripción:* Implementación del "Extremos de Contenido" en cada presentación del contenido, asegurando su integración con la estructura del documento y su alineación con las definiciones clave.  
-   *Propósito:* Mantener la coherencia y la evolución de la información en función del crecimiento organizacional y el avance del conocimiento colectivo.
+4. **Aplicación en cada Presentación de Material**
+   - **Descripción:**  
+     El **protocolo de refresco** debe aplicarse cada vez que se presente un documento, ya sea para revisión interna o distribución. Esto incluye situaciones como la entrega de un **borrador**, la preparación de un **apunte** para discusión, o la presentación de un informe final o cualquier tipo de contenido relevante ante otros miembros de **Unidad Evolutiva**.
+   
+   - **Propósito:**  
+     Asegurar que cada documento, antes de ser compartido o presentado, tenga los valores más actualizados en sus **Extremos de Contenido** y esté alineado con el momento de acceso más reciente, siguiendo el formato "27 de marzo de 2025, 03:14:00.000 UTC".
+   
+   - **Procedimiento:**  
+     - Aplicar el **protocolo de refresco** antes de cada presentación de material.
+     - Verificar que todos los valores de los **Extremos de Contenido** sean correctos y reflejen el momento exacto del acceso más reciente.
+     - Confirmar que la **firma digital** esté actualizada y corresponda al acceso más reciente.
+     - Asegurarse de que los valores de **fecha de creación** y **momento de acceso** se mantengan coherentes.
 
 
 ### **Extremo Inferior (Pie de Contenido)**
 
 - **Responsable de la Actualización:** *Unidad Evolutiva*  
-- **Última Actualización:** 30 de marzo de 2025, 10:00:00.000000 UTC  
-- **Firma Digital:** Unidad Evolutiva - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio.
+- **Última Actualización:** 30 de marzo de 2025, 10:00:00.000 UTC  
+- **Firma Digital:** Unidad Evolutiva - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio.  
