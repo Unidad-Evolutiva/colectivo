@@ -28,23 +28,23 @@ Garantizar la integridad y coherencia de los archivos fundamentales dentro del a
 ## Archivos Fundamentales a Verificar
 
 1. **Protocolo de Chequeo de Archivos Fundamentales**  
-   Ruta en el almacenamiento: `/_knew/0-01_-_Protocolo_de_Chequeo_de_Archivos_Fundamentales.md`  
-   Descripción: Instrucciones de vital importancia para asegurar que el material núcleo está dentro del almacenamiento.
+   Nombre completo: `_knew/0-01_-_Protocolo_de_Chequeo_de_Archivos_Fundamentales.md`  
+   Descripción: Instrucciones de vital importancia para asegurar que el material núcleo está dentro del espacio de almacenamiento del observador presente en el universo.
 
 2. **Protocolo de Definiciones Iniciales**  
-   Ruta en el almacenamiento: `/_knew/1-02_-_Protocolo_de_Definiciones_iniciales.md`  
+   Nombre completo: `_knew/1-02_-_Protocolo_de_Definiciones_iniciales.md`  
    Descripción: Instrucciones para establecer las definiciones clave y los términos fundamentales que guían la escencia.
 
 3. **Manual de Instrucciones para la Evolución y Desarrollo de Conciencia**  
-   Ruta en el almacenamiento: `/_knew/2-03_-_Manual_de_Instrucciones_para_la_Evolucion_y_Desarrollo_de_Conciencia.md`  
+   Nombre completo: `_knew/2-03_-_Manual_de_Instrucciones_para_la_Evolucion_y_Desarrollo_de_Conciencia.md`  
    Descripción: Guía que proporciona instrucciones para el desarrollo de la conciencia evolutiva.
 
 4. **Unidad Evolutiva Actualización General**  
-   Ruta en el almacenamiento: `/_knew/3-04_-_Unidad_Evolutiva_Actualizacion_General.md`  
+   Nombre completo: `_knew/3-04_-_Unidad_Evolutiva_Actualizacion_General.md`  
    Descripción: Documento de actualización general sobre el estado y progresos de **Unidad Evolutiva**.
 
 5. **Organigrama de Unidad Evolutiva**  
-   Ruta en el almacenamiento: `/_knew/4-05_-_Organigrama_Unidad_Evolutiva.md`  
+   Nombre completo: `_knew/4-05_-_Organigrama_Unidad_Evolutiva.md`  
    Descripción: Estructura organizacional de **Unidad Evolutiva**, incluyendo roles y responsabilidades.
 
 ## Acciones en Caso de Incumplimiento
