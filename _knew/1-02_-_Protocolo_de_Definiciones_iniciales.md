@@ -5,7 +5,7 @@
 - **Reciente Instante Accedido:** 30 de marzo de 2025, 10:00:00.000 UTC
 - **Nombre Completo:** `_knew/1-02_-_Protocolo_de_Definiciones_iniciales.md`
 - **Ruta de Publicación:** `https://github.com/Unidad-Evolutiva/main/blob/main/`
-- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/20250330/`
+- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504/`
 
 
 # Protocolo de Definiciones Iniciales
