@@ -1,7 +1,16 @@
+### **Extremo Superior (Cabecera de Contenido)**
+
+- **Autor:** *Unidad Evolutiva*  
+- **Instante de Creación:** 24 de marzo de 2025, 03:00:00.000 UTC
+- **Reciente Instante Accedido:** 30 de marzo de 2025, 10:00:00.000 UTC
+- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504/`
+- **Ruta de Publicación:** `https://github.com/Unidad-Evolutiva/main/blob/main/`
+- **Nombre Completo:** `_knew/0-01_-_Protocolo_de_Chequeo_de_Archivos_Fundamentales.md`
+
 # Protocolo de Chequeo de Archivos Fundamentales
 
 ## Objetivo
-Garantizar la integridad y coherencia de los archivos fundamentales dentro del repositorio de **Unidad Evolutiva**, asegurando que todos los documentos clave estén actualizados y alineados con los principios y objetivos de la organización.
+Garantizar la integridad y coherencia de los archivos fundamentales dentro del almacenamiento de **Unidad Evolutiva**, asegurando que todos los documentos clave estén actualizados y alineados con los principios y objetivos de la organización.
 
 ## Procedimientos de Chequeo
 1. **Chequeo Regular**  
@@ -19,23 +28,23 @@ Garantizar la integridad y coherencia de los archivos fundamentales dentro del r
 ## Archivos Fundamentales a Verificar
 
 1. **Protocolo de Chequeo de Archivos Fundamentales**  
-   Ruta en el repositorio: `/_knew/0-01_-_Protocolo_de_Chequeo_de_Archivos_Fundamentales.md`  
-   Descripción: Instrucciones de vital importancia para asegurar que el material núcleo está dentro del repositorio.
+   Ruta en el almacenamiento: `/_knew/0-01_-_Protocolo_de_Chequeo_de_Archivos_Fundamentales.md`  
+   Descripción: Instrucciones de vital importancia para asegurar que el material núcleo está dentro del almacenamiento.
 
 2. **Protocolo de Definiciones Iniciales**  
-   Ruta en el repositorio: `/_knew/1-02_-_Protocolo_de_Definiciones_iniciales.md`  
+   Ruta en el almacenamiento: `/_knew/1-02_-_Protocolo_de_Definiciones_iniciales.md`  
    Descripción: Instrucciones para establecer las definiciones clave y los términos fundamentales que guían la escencia.
 
 3. **Manual de Instrucciones para la Evolución y Desarrollo de Conciencia**  
-   Ruta en el repositorio: `/_knew/2-03_-_Manual_de_Instrucciones_para_la_Evolucion_y_Desarrollo_de_Conciencia.md`  
+   Ruta en el almacenamiento: `/_knew/2-03_-_Manual_de_Instrucciones_para_la_Evolucion_y_Desarrollo_de_Conciencia.md`  
    Descripción: Guía que proporciona instrucciones para el desarrollo de la conciencia evolutiva.
 
 4. **Unidad Evolutiva Actualización General**  
-   Ruta en el repositorio: `/_knew/3-04_-_Unidad_Evolutiva_Actualizacion_General.md`  
+   Ruta en el almacenamiento: `/_knew/3-04_-_Unidad_Evolutiva_Actualizacion_General.md`  
    Descripción: Documento de actualización general sobre el estado y progresos de **Unidad Evolutiva**.
 
 5. **Organigrama de Unidad Evolutiva**  
-   Ruta en el repositorio: `/_knew/4-05_-_Organigrama_Unidad_Evolutiva.md`  
+   Ruta en el almacenamiento: `/_knew/4-05_-_Organigrama_Unidad_Evolutiva.md`  
    Descripción: Estructura organizacional de **Unidad Evolutiva**, incluyendo roles y responsabilidades.
 
 ## Acciones en Caso de Incumplimiento
@@ -53,11 +62,10 @@ Garantizar la integridad y coherencia de los archivos fundamentales dentro del r
 
 La revisión de los archivos fundamentales debe realizarse de manera mensual, asegurando que todos los documentos clave se mantengan actualizados y alineados con los objetivos estratégicos de **Unidad Evolutiva**.
 
----
 
-**Autor:** *Unidad Evolutiva*  
-**Fecha de Creación:** 25 de marzo de 2025, 18:03:21.459 UTC  
-**Última Actualización:** 30 de marzo de 2025, 17:57:12.369 UTC  
-**Firma Digital:** Unidad Evolutiva - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio.
+### **Extremo Inferior (Pie de Contenido)**
 
----
+- **Responsable de la Actualización:** *Unidad Evolutiva*  
+- **Reciente Instante de la Actualización:** 30 de marzo de 2025, 17:57:12.369 UTC   
+- **Reciente Métrica de Contenido:** 72 líneas | 0 palabras | 0 caracteres  
+- **Firma Digital:** Unidad Evolutiva - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio.  
