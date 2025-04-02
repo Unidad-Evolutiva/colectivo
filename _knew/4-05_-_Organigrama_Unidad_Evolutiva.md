@@ -1,3 +1,12 @@
+### **Extremo Superior (Cabecera de Contenido)**
+
+- **Autor:** *Unidad Evolutiva*  
+- **Instante de Creación:** 24 de marzo de 2025, 03:00:00.000 UTC
+- **Reciente Instante Accedido:** 30 de marzo de 2025, 10:00:00.000 UTC
+- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504/`
+- **Ruta de Publicación:** `https://github.com/Unidad-Evolutiva/main/blob/main/`
+- **Nombre Completo:** `_knew/4-05_-_Organigrama_Unidad_Evolutiva.md`
+
 # Organigrama de Unidad Evolutiva
 
 ## Propósito Global
@@ -45,9 +54,10 @@ Cada rol está diseñado para colaborar de manera interconectada, garantizando u
 
 **Correo General**: unidad.evolutiva@scolari.org (Área de Secretaría)
 
----
 
-**Ejemplo de firma:**  
-Autor: Unidad Evolutiva  
-Última Actualización: 2025-03-25 14:37:56.482 UTC  
-Firma Digital: Unidad Evolutiva - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio.
+### **Extremo Inferior (Pie de Contenido)**
+
+- **Responsable de la Actualización:** *Unidad Evolutiva*  
+- **Reciente Instante de la Actualización:** 25 de marzo de 2025, 14:37:56.482 UTC   
+- **Reciente Métrica de Contenido:** 64 líneas | 0 palabras | 0 caracteres  
+- **Firma Digital:** Unidad Evolutiva - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio.
