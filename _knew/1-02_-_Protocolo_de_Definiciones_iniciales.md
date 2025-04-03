@@ -4,7 +4,7 @@
 - **Autor:** *Unidad Evolutiva*
 - **Instante de Creación:** 24 de marzo de 2025, 03:00:00.000 UTC
 - **Reciente Instante Accedido:** 30 de marzo de 2025, 10:00:00.000 UTC
-- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504/`
+- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/20250403/`
 - **Ruta de Publicación:** `https://github.com/Unidad-Evolutiva/main/blob/main/`
 - **Nombre Completo:** `_knew/1-02_-_Protocolo_de_Definiciones_iniciales.md`
 

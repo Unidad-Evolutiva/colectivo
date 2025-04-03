@@ -3,8 +3,8 @@
 - **Orden:** Esencia 3 | Aplicación 04 | Integridad 4/5
 - **Autor:** *Unidad Evolutiva*  
 - **Instante de Creación:** 24 de marzo de 2025, 03:00:00.000 UTC
-- **Reciente Instante Accedido:** 30 de marzo de 2025, 10:00:00.000 UTC
-- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504/`
+- **Reciente Instante Accedido:** 25 de marzo de 2025, 19:00:01.234 UTC
+- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/20250403/`
 - **Ruta de Publicación:** `https://github.com/Unidad-Evolutiva/main/blob/main/`
 - **Nombre Completo:** `_knew/3-04_-_Unidad_Evolutiva_Actualizacion_General.md`
 

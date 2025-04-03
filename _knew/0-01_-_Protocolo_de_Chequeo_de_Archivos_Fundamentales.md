@@ -3,8 +3,8 @@
 - **Orden:** Esencia 0 | Aplicación 01 | Integridad 1/5
 - **Autor:** *Unidad Evolutiva*  
 - **Instante de Creación:** 24 de marzo de 2025, 03:00:00.000 UTC
-- **Reciente Instante Accedido:** 30 de marzo de 2025, 10:00:00.000 UTC
-- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504/`
+- **Reciente Instante Accedido:** 3 de abril de 2025, 04:31:04.000 UTC
+- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/20250403/`
 - **Ruta de Publicación:** `https://github.com/Unidad-Evolutiva/main/blob/main/`
 - **Nombre Completo:** `_knew/0-01_-_Protocolo_de_Chequeo_de_Archivos_Fundamentales.md`
 
@@ -34,7 +34,7 @@ Garantizar la integridad y coherencia de los archivos fundamentales dentro del a
 
 2. **Protocolo de Definiciones Iniciales**  
    Nombre completo: `_knew/1-02_-_Protocolo_de_Definiciones_iniciales.md`  
-   Descripción: Instrucciones para establecer las definiciones clave y los términos fundamentales que guían la escencia.
+   Descripción: Instrucciones para establecer las definiciones clave y los términos fundamentales que guían la esencia.
 
 3. **Manual de Instrucciones para la Evolución y Desarrollo de Conciencia**  
    Nombre completo: `_knew/2-03_-_Manual_de_Instrucciones_para_la_Evolucion_y_Desarrollo_de_Conciencia.md`  
@@ -67,6 +67,6 @@ La revisión de los archivos fundamentales debe realizarse de manera mensual, as
 ### **Extremo Inferior (Pie de Contenido)**
 
 - **Responsable de la Actualización:** *Unidad Evolutiva*  
-- **Reciente Instante de la Actualización:** 30 de marzo de 2025, 17:57:12.369 UTC   
+- **Reciente Instante de la Actualización:** 3 de abril de 2025, 04:31:04.000 UTC
 - **Reciente Métrica de Contenido:** 73 líneas | 0 palabras | 0 caracteres  
 - **Firma Digital:** Unidad Evolutiva - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio.  
