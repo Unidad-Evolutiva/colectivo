@@ -1,6 +1,6 @@
 ### **Extremo Superior (Cabecera de Contenido)**
 
-- **Orden:** Escencia 5 | Aplicación 06 | Integridad 1/1
+- **Orden:** Esencia 5 | Aplicación 06 | Integridad 1/1
 - **Autor:** *Unidad Evolutiva*  
 - **Instante de Creación:** 24 de marzo de 2025, 18:03:21.459 UTC
 - **Reciente Instante Accedido:** 30 de marzo de 2025, 10:00:00.000 UTC
@@ -56,5 +56,5 @@ La revisión de cada peregrino se realizará de manera **mensual**, con relevami
 
 - **Responsable de la Actualización:** *Unidad Evolutiva*  
 - **Reciente Instante de la Actualización:** 24 de marzo de 2025, 18:03:21.459 UTC   
-- **Reciente Métrica de Contenido:** 60 líneas | 0 palabras | 0 caracteres  
+- **Reciente Métrica de Contenido:** 61 líneas | 0 palabras | 0 caracteres  
 - **Firma Digital:** Unidad Evolutiva - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio.

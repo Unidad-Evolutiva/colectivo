@@ -1,6 +1,6 @@
 ### **Extremo Superior (Cabecera de Contenido)**
 
-- **Orden:** Escencia 2 | Aplicación 06 | Integridad 3/5
+- **Orden:** Esencia 2 | Aplicación 03 | Integridad 3/5
 - **Autor:** *Unidad Evolutiva*  
 - **Instante de Creación:** 24 de marzo de 2025, 03:00:00.000 UTC
 - **Reciente Instante Accedido:** 30 de marzo de 2025, 10:00:00.000 UTC
@@ -63,5 +63,5 @@ Este manual es un mapa para la evolución consciente de la humanidad. Al seguir 
 
 - **Responsable de la Actualización:** *Unidad Evolutiva*  
 - **Reciente Instante de la Actualización:** 24 de marzo de 2025, 17:30:45.123 UTC 
-- **Reciente Métrica de Contenido:** 72 líneas | 0 palabras | 0 caracteres  
+- **Reciente Métrica de Contenido:** 68 líneas | 0 palabras | 0 caracteres  
 - **Firma Digital:** Unidad Evolutiva - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio.  

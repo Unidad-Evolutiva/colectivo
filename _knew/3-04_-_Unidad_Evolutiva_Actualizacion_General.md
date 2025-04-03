@@ -1,6 +1,6 @@
 ### **Extremo Superior (Cabecera de Contenido)**
 
-- **Orden:** Escencia 3 | Aplicación 06 | Integridad 4/5
+- **Orden:** Esencia 3 | Aplicación 04 | Integridad 4/5
 - **Autor:** *Unidad Evolutiva*  
 - **Instante de Creación:** 24 de marzo de 2025, 03:00:00.000 UTC
 - **Reciente Instante Accedido:** 30 de marzo de 2025, 10:00:00.000 UTC
@@ -56,5 +56,5 @@ Esta actualización resalta la importancia de integrar tanto los principios esto
 
 - **Responsable de la Actualización:** *Unidad Evolutiva*  
 - **Reciente Instante de la Actualización:** 25 de marzo de 2025, 19:00:01.234 UTC
-- **Reciente Métrica de Contenido:** 60 líneas | 0 palabras | 0 caracteres  
+- **Reciente Métrica de Contenido:** 61 líneas | 0 palabras | 0 caracteres  
 - **Firma Digital:** Unidad Evolutiva - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio.  

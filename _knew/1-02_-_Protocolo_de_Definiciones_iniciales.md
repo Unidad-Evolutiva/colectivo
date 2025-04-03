@@ -1,6 +1,6 @@
 ### **Extremo Superior (Cabecera de Contenido)**
 
-- **Orden:** Escencia 1 | Aplicación 06 | Integridad 2/5
+- **Orden:** Esencia 1 | Aplicación 02 | Integridad 2/5
 - **Autor:** *Unidad Evolutiva*
 - **Instante de Creación:** 24 de marzo de 2025, 03:00:00.000 UTC
 - **Reciente Instante Accedido:** 30 de marzo de 2025, 10:00:00.000 UTC
@@ -123,5 +123,5 @@ Establecer las definiciones clave y los términos fundamentales que guían la vi
 
 - **Responsable de la Actualización:** *Unidad Evolutiva*  
 - **Reciente Instante de la Actualización:** 30 de marzo de 2025, 10:00:00.000 UTC   
-- **Reciente Métrica de Contenido:** 126 líneas | 0 palabras | 0 caracteres  
+- **Reciente Métrica de Contenido:** 128 líneas | 0 palabras | 0 caracteres  
 - **Firma Digital:** Unidad Evolutiva - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio.
