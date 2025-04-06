@@ -4,7 +4,7 @@
 - **Autor:** *Unidad Evolutiva*  
 - **Instante de Creación:** 24 de marzo de 2025, 03:00:00.000 UTC
 - **Reciente Instante Accedido:** 3 de abril de 2025, 04:31:04.000 UTC
-- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/2025040322/`
+- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504052130/`
 - **Ruta de Publicación:** `https://github.com/Unidad-Evolutiva/main/blob/main/`
 - **Nombre Completo:** `_knew/0-01_-_Protocolo_de_Chequeo_de_Archivos_Fundamentales.md`
 

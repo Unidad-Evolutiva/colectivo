@@ -4,7 +4,7 @@
 - **Autor:** *Unidad Evolutiva*  
 - **Instante de Creación:** 24 de marzo de 2025, 03:00:00.000 UTC
 - **Reciente Instante Accedido:** 25 de marzo de 2025, 19:00:01.234 UTC
-- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/2025040322/`
+- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504052130/`
 - **Ruta de Publicación:** `https://github.com/Unidad-Evolutiva/main/blob/main/`
 - **Nombre Completo:** `_knew/3-04_-_Unidad_Evolutiva_Actualizacion_General.md`
 
