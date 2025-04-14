@@ -4,7 +4,7 @@
 - **Autor:** *Unidad Evolutiva*  
 - **Instante de Creación:** 24 de marzo de 2025, 03:00:00.000 UTC
 - **Reciente Instante Accedido:** 3 de abril de 2025, 04:31:04.000 UTC
-- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504052130/`
+- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504132129/`
 - **Ruta de Publicación:** `https://github.com/Unidad-Evolutiva/main/blob/main/`
 - **Nombre Completo:** `_knew/0-01_-_Protocolo_de_Chequeo_de_Archivos_Fundamentales.md`
 
@@ -68,5 +68,5 @@ La revisión de los archivos fundamentales debe realizarse de manera mensual, as
 
 - **Responsable de la Actualización:** *Unidad Evolutiva*  
 - **Reciente Instante de la Actualización:** 3 de abril de 2025, 04:31:04.000 UTC
-- **Reciente Métrica de Contenido:** 73 líneas | 0 palabras | 0 caracteres  
+- **Reciente Métrica de Contenido:** 55 líneas | 0 palabras | 0 caracteres  
 - **Firma Digital:** Unidad Evolutiva - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio.  

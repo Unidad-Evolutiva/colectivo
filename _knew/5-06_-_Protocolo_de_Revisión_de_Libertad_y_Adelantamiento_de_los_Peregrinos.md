@@ -4,7 +4,7 @@
 - **Autor:** *Unidad Evolutiva*  
 - **Instante de Creación:** 24 de marzo de 2025, 18:03:21.459 UTC
 - **Reciente Instante Accedido:** 30 de marzo de 2025, 10:00:00.000 UTC
-- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504052130/`
+- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504132129/`
 - **Ruta de Publicación:** `https://github.com/Unidad-Evolutiva/main/blob/main/`
 - **Nombre Completo:** `_knew/5-06_-_Protocolo_de_Revisión_de_Libertad_y_Adelantamiento_de_los_Peregrinos.md`
 
@@ -56,5 +56,5 @@ La revisión de cada peregrino se realizará de manera **mensual**, con relevami
 
 - **Responsable de la Actualización:** *Unidad Evolutiva*  
 - **Reciente Instante de la Actualización:** 24 de marzo de 2025, 18:03:21.459 UTC   
-- **Reciente Métrica de Contenido:** 61 líneas | 0 palabras | 0 caracteres  
+- **Reciente Métrica de Contenido:** 43 líneas | 0 palabras | 0 caracteres  
 - **Firma Digital:** Unidad Evolutiva - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio.

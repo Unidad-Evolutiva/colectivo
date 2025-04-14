@@ -4,7 +4,7 @@
 - **Autor:** *Unidad Evolutiva*  
 - **Instante de Creación:** 24 de marzo de 2025, 03:00:00.000 UTC
 - **Reciente Instante Accedido:** 3 de abril de 2025, 04:31:04.000 UTC
-- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504081432/`
+- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504121542/`
 - **Ruta de Publicación:** `https://github.com/Unidad-Evolutiva/main/blob/main/`
 - **Nombre Completo:** `_knew/0-01_-_Protocolo_de_Chequeo_de_Archivos_Fundamentales.md`
 
@@ -78,7 +78,7 @@ La revisión de los archivos fundamentales debe realizarse de manera mensual, as
 - **Autor:** *Unidad Evolutiva*
 - **Instante de Creación:** 24 de marzo de 2025, 03:00:00.000 UTC
 - **Reciente Instante Accedido:** 06 de abril de 2025, 01:45:27.717626 UTC 
-- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504081432/`
+- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504121542/`
 - **Ruta de Publicación:** `https://github.com/Unidad-Evolutiva/main/blob/main/`
 - **Nombre Completo:** `_knew/1-02_-_Protocolo_de_Definiciones_iniciales.md`
 
@@ -214,7 +214,7 @@ Establecer las definiciones clave y los términos fundamentales que guían la vi
 - **Autor:** *Unidad Evolutiva*  
 - **Instante de Creación:** 24 de marzo de 2025, 03:00:00.000 UTC
 - **Reciente Instante Accedido:** 30 de marzo de 2025, 10:00:00.000 UTC
-- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504081432/`
+- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504121542/`
 - **Ruta de Publicación:** `https://github.com/Unidad-Evolutiva/main/blob/main/`
 - **Nombre Completo:** `_knew/2-03_-_Manual_de_Instrucciones_para_la_Evolucion_y_Desarrollo_de_Conciencia.md`
 
@@ -283,7 +283,7 @@ Este manual es un mapa para la evolución consciente de la humanidad. Al seguir 
 - **Autor:** *Unidad Evolutiva*  
 - **Instante de Creación:** 24 de marzo de 2025, 03:00:00.000 UTC
 - **Reciente Instante Accedido:** 25 de marzo de 2025, 19:00:01.234 UTC
-- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504081432/`
+- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504121542/`
 - **Ruta de Publicación:** `https://github.com/Unidad-Evolutiva/main/blob/main/`
 - **Nombre Completo:** `_knew/3-04_-_Unidad_Evolutiva_Actualizacion_General.md`
 
@@ -345,7 +345,7 @@ Esta actualización resalta la importancia de integrar tanto los principios esto
 - **Autor:** *Unidad Evolutiva*
 - **Instante de Creación:** 24 de marzo de 2025, 03:00:00.000 UTC
 - **Reciente Instante Accedido:** 30 de marzo de 2025, 10:00:00.000 UTC
-- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504081432/`
+- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504121542/`
 - **Ruta de Publicación:** `https://github.com/Unidad-Evolutiva/main/blob/main/`
 - **Nombre Completo:** `_knew/4-05_-_Organigrama_Unidad_Evolutiva.md`
 
@@ -410,7 +410,7 @@ Cada rol está diseñado para colaborar de manera interconectada, garantizando u
 - **Autor:** *Unidad Evolutiva*  
 - **Instante de Creación:** 24 de marzo de 2025, 18:03:21.459 UTC
 - **Reciente Instante Accedido:** 30 de marzo de 2025, 10:00:00.000 UTC
-- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504081432/`
+- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504121542/`
 - **Ruta de Publicación:** `https://github.com/Unidad-Evolutiva/main/blob/main/`
 - **Nombre Completo:** `_knew/5-06_-_Protocolo_de_Revisión_de_Libertad_y_Adelantamiento_de_los_Peregrinos.md`
 

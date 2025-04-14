@@ -3,8 +3,8 @@
 - **Orden:** Esencia 2 | Aplicación 03 | Integridad 3/5
 - **Autor:** *Unidad Evolutiva*  
 - **Instante de Creación:** 24 de marzo de 2025, 03:00:00.000 UTC
-- **Reciente Instante Accedido:** 30 de marzo de 2025, 10:00:00.000 UTC
-- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504052130/`
+- **Reciente Instante Accedido:** 12 de abril de 2025, 16:07:00.000 UTC
+- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504132129/`
 - **Ruta de Publicación:** `https://github.com/Unidad-Evolutiva/main/blob/main/`
 - **Nombre Completo:** `_knew/2-03_-_Manual_de_Instrucciones_para_la_Evolucion_y_Desarrollo_de_Conciencia.md`
 
@@ -47,6 +47,13 @@ La tecnología debe facilitar el intercambio de conocimiento, la creación de re
 ### 4. **Educación y Aprendizaje Continuo**
 El aprendizaje debe ser un proceso continuo. Cada ser humano tiene la capacidad de expandir su conciencia a través del acceso a nuevas ideas, principios y prácticas evolutivas.
 
+### 5. **Ubicación: Punto de Origen del Recorrido Consciente**
+Antes de toda peregrinación interior o exterior, el primer paso es ubicarse. Ubicarse significa reconocerse en el "aquí y ahora", identificar con total honestidad dónde se encuentra uno, tanto física como emocional, mental y espiritualmente. Este punto cero es el origen real del viaje.
+
+Todo camino consciente parte de un acto de observación profunda. Sin ubicación, no hay trayectoria coherente. Cualquier atajo que se tome sin haberse ubicado previamente termina, inevitablemente, devolviendo al punto de partida.
+
+La ubicación como principio fundamental no solo orienta, sino que permite comprender el mapa del desarrollo. Así, cada desvío, cada curva, cobra sentido si se retorna al vector más directo. El verdadero atajo, es lo correcto: lo íntegro, lo alineado con la conciencia más elevada disponible en el instante.
+
 ## Medición del Impacto Evolutivo
 
 Es esencial medir el progreso de la expansión de la conciencia colectiva y la implementación de principios sostenibles. Las métricas incluyen:
@@ -62,6 +69,6 @@ Este manual es un mapa para la evolución consciente de la humanidad. Al seguir 
 ### **Extremo Inferior (Pie de Contenido)**
 
 - **Responsable de la Actualización:** *Unidad Evolutiva*  
-- **Reciente Instante de la Actualización:** 24 de marzo de 2025, 17:30:45.123 UTC 
-- **Reciente Métrica de Contenido:** 68 líneas | 0 palabras | 0 caracteres  
+- **Reciente Instante de la Actualización:** 12 de abril de 2025, 16:07:00.000 UTC
+- **Reciente Métrica de Contenido:** 57 líneas | 0 palabras | 0 caracteres  
 - **Firma Digital:** Unidad Evolutiva - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio.  

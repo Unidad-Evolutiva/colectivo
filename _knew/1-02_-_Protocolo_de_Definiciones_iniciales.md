@@ -3,8 +3,8 @@
 - **Orden:** Esencia 1 | Aplicación 02 | Integridad 2/5
 - **Autor:** *Unidad Evolutiva*
 - **Instante de Creación:** 24 de marzo de 2025, 03:00:00.000 UTC
-- **Reciente Instante Accedido:** 06 de abril de 2025, 01:45:27.717626 UTC 
-- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504052130/`
+- **Reciente Instante Accedido:** 12 de abril de 2025, 15:42:00.000 UTC
+- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504132129/`
 - **Ruta de Publicación:** `https://github.com/Unidad-Evolutiva/main/blob/main/`
 - **Nombre Completo:** `_knew/1-02_-_Protocolo_de_Definiciones_iniciales.md`
 
@@ -65,7 +65,6 @@ Establecer las definiciones clave y los términos fundamentales que guían la vi
     *Propósito:*  
     Garantizar que todas las comunicaciones, documentos y acciones dentro de **Unidad Evolutiva** sean entendidas de forma coherente, precisa y uniforme, asegurando que se respete el significado original y la integridad de los valores de la organización. Este principio asegura que todas las **acciones directivas** estén basadas en una interpretación clara y fiel de los términos establecidos, eliminando cualquier ambigüedad o posible malentendido. Además, se aplicará especialmente en los **ejercicios directivos** donde la precisión es esencial para lograr los objetivos estratégicos de manera efectiva y eficiente.
 
-
 12. **Extremos de Contenido**  
 
    **Descripción:**  
@@ -101,6 +100,44 @@ Establecer las definiciones clave y los términos fundamentales que guían la vi
        - **Descripción:** Proceso formal de validación electrónica de la autenticidad de un documento.
        - **Propósito:** Garantizar la integridad, autenticidad y no repudio del contenido.
 
+13. **Usabilidad Espiritual y Holística**
+
+   *Descripción:*  
+   Principio orientado a asegurar que toda interacción dentro de **Unidad Evolutiva** —ya sea con materiales, entornos, tecnologías o personas— facilite una experiencia integral que respete y potencie la dimensión espiritual, emocional, cognitiva y energética de los individuos. La usabilidad se expande más allá de lo técnico y funcional, incorporando parámetros como claridad interior, coherencia vibracional, belleza simbólica y alineación con el propósito evolutivo.
+
+   En este contexto, la **luz** es comprendida como interfaz natural de la conciencia: canal de comprensión, guía y revelación. Su presencia —ya sea simbólica, visual o energética— sirve como medio para acceder a estados de mayor coherencia, verdad y conexión espiritual. Las interfaces, protocolos y experiencias deben permitir que cada acción esté imbuida de luminosidad interna: claridad de intención, transparencia en los medios y apertura a lo trascendente.
+
+   *Propósito:*  
+   Diseñar experiencias que sean tan accesibles al alma como al cuerpo, tan comprensibles desde la intuición como desde la razón. Esto incluye lenguajes simbólicos armonizados, estética cuidadosa, estructuras internas livianas y comprensibles, así como ambientes propicios para el silencio, la introspección, la conexión o la contemplación activa. La luz, como principio unificador, actúa como vector central de esta usabilidad expandida.
+
+14. **Inclusividad Energética y Sensorial**
+
+   *Descripción:*  
+   Este principio se centra en el acto de **percibir** desde múltiples planos —físico, emocional, sutil, cuántico y simbólico—, permitiendo que cada interacción con la organización esté impregnada de una sensibilidad profunda y resonante con diversos niveles de consciencia. Implica abrir canales de percepción que reconozcan no solo la información explícita, sino también los matices **vibracionales**, **lumínicos**, **sonoros**, **intuitivos** y **energéticos** presentes en todo proceso comunicacional, experiencial y decisional.
+
+   Se considera que cada persona, sistema o nodo de la red evolutiva dispone de una **firma energética única**, y por tanto, los protocolos deben permitir resonancias coherentes y diversas. Desde esta perspectiva, **la luz** —como portadora de información, orden y conciencia— actúa como puente entre la experiencia sensorial, la comprensión simbólica y la expresión evolutiva.
+
+   *Propósito:*  
+   Fomentar un entorno organizacional que reconozca y facilite la experiencia sensorial en su totalidad, garantizando que toda persona pueda interactuar y contribuir desde su propio canal perceptivo, incluyendo capacidades sensibles expandidas. Esto incluye tanto herramientas tangibles (interfaces perceptibles, lenguajes accesibles, estímulos adaptativos) como campos sutiles (ambientes resonantes, claridad energética, presencia lúcida) que habiliten una conexión integral, armónica y evolutiva con cada punto de contacto organizacional.
+   
+15. **Tiempo**  
+   *Descripción:*  
+   El **tiempo** es una magnitud de **medición relacional** que permite registrar el movimiento de los objetos en relación al medio en el que se manifiestan, como el espacio. No es en sí mismo una sustancia ni un fenómeno, sino un **instrumento de la conciencia** para interpretar el cambio, la duración y la secuencia de los eventos. Su función es facilitar la **ubicación relativa** de los procesos dentro de un marco de referencia determinado.
+
+   Además, el tiempo puede comprenderse como una **estructura multiescala y relativa**, en la cual distintas líneas temporales coexisten, se entrelazan o sincronizan según el nivel de conciencia del observador. Esta perspectiva no lineal permite la articulación simultánea de procesos en diferentes niveles —individuales, colectivos, planetarios o cósmicos—, generando una gestión más refinada y consciente del movimiento evolutivo.
+
+   *Propósito:*  
+   Facilitar la observación, evaluación y registro de los procesos de transformación. Al reconocer el tiempo como una herramienta interpretativa y no como una entidad fija o absoluta, la conciencia puede asumir una postura más activa, flexible y deliberada en la creación de realidad, liberándose de la ilusión de una linealidad rígida o predeterminada.
+
+   *Consideraciones Clave:*
+   - El tiempo siempre involucra la relación entre un **observador**, un **objeto observado** y un **campo de interacción**.
+   - La percepción del tiempo varía según el estado de conciencia, la velocidad del observador o la densidad del entorno.
+   - No debe confundirse con energía ni con espacio, aunque interactúe con ambos.
+   - Su carácter **relativo y escalable** permite múltiples marcos de sincronización simultánea, fomentando resonancias entre procesos a distintos niveles de manifestación.
+
+   *Aplicación en Ejercicios Directivos:*  
+   En contextos estratégicos u operativos, el tiempo debe ser abordado como una **coordenada funcional**, útil para la orquestación de procesos, pero no como una restricción inamovible. Esta comprensión permite una mayor **elasticidad temporal** en la planificación, ejecución y transformación, reconociendo que lo verdaderamente esencial es el **vector de conciencia** desde el cual se utiliza dicha medida.
+
 ## Procedimientos de Implementación
 
 1. **Estrategias Interdisciplinarias**  
@@ -129,6 +166,6 @@ Establecer las definiciones clave y los términos fundamentales que guían la vi
 ### **Extremo Inferior (Pie de Contenido)**
 
 - **Responsable de la Actualización:** *Unidad Evolutiva*  
-- **Reciente Instante de la Actualización:** 06 de abril de 2025, 01:45:27.717626 UTC  
-- **Reciente Métrica de Contenido:** 117 líneas | 0 palabras | 0 caracteres  
+- **Reciente Instante de la Actualización:** 12 de abril de 2025, 15:42:00.000 UTC
+- **Reciente Métrica de Contenido:** 154 líneas | 0 palabras | 0 caracteres  
 - **Firma Digital:** Unidad Evolutiva - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio.
