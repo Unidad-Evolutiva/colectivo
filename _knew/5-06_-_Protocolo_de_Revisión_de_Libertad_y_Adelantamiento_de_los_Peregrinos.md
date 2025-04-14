@@ -3,10 +3,11 @@
 - **Orden:** Esencia 5 | Aplicación 06 | Integridad 1/1
 - **Autor:** *Unidad Evolutiva*  
 - **Instante de Creación:** 24 de marzo de 2025, 18:03:21.459 UTC
-- **Reciente Instante Accedido:** 30 de marzo de 2025, 10:00:00.000 UTC
-- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504132129/`
+- **Reciente Instante Accedido:** 14 de abril de 2025, 20:30:00.000 UTC
+- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504141738/`
 - **Ruta de Publicación:** `https://github.com/Unidad-Evolutiva/main/blob/main/`
 - **Nombre Completo:** `_knew/5-06_-_Protocolo_de_Revisión_de_Libertad_y_Adelantamiento_de_los_Peregrinos.md`
+- **Semillas Clave:** `Libertad Cuántica`, `Camino del Peregrino`, `Autodeterminación Consciente`, `Sincronía Evolutiva`, `Ética del Caminante`, `Brujula Interior`, `Umbrales de Transformación`, `Eclipse del Ego`, `Liberación Cuántica del Ser`, `Flujo de Conciencia Autonómico`, `Ciclos de Revisión Conscientes`, `Acción Responsable del Peregrino`, `Visión Sinérgica Global`, `Despertar del Potencial Infinito`, `Conexión Directa con el Propósito Universal`
 
 # Protocolo de Revisión de Libertad y Adelantamiento de los Peregrinos
 
@@ -55,6 +56,6 @@ La revisión de cada peregrino se realizará de manera **mensual**, con relevami
 ### **Extremo Inferior (Pie de Contenido)**
 
 - **Responsable de la Actualización:** *Unidad Evolutiva*  
-- **Reciente Instante de la Actualización:** 24 de marzo de 2025, 18:03:21.459 UTC   
+- **Reciente Instante de la Actualización:** 14 de abril de 2025, 20:30:00.000 UTC
 - **Reciente Métrica de Contenido:** 43 líneas | 0 palabras | 0 caracteres  
 - **Firma Digital:** Unidad Evolutiva - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio.

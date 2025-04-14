@@ -3,10 +3,11 @@
 - **Orden:** Esencia 2 | Aplicación 03 | Integridad 3/5
 - **Autor:** *Unidad Evolutiva*  
 - **Instante de Creación:** 24 de marzo de 2025, 03:00:00.000 UTC
-- **Reciente Instante Accedido:** 12 de abril de 2025, 16:07:00.000 UTC
-- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504132129/`
+- **Reciente Instante Accedido:** 14 de abril de 2025, 20:25:30.000 UTC
+- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504141738/`
 - **Ruta de Publicación:** `https://github.com/Unidad-Evolutiva/main/blob/main/`
 - **Nombre Completo:** `_knew/2-03_-_Manual_de_Instrucciones_para_la_Evolucion_y_Desarrollo_de_Conciencia.md`
+- **Semillas Clave:** `Ubicación Consciente`, `Sintergía`, `Autonomía Evolutiva`, `Theta Global`, `Conciencia Cuántica`, `Peregrinaje Interior`, `Lúmen de Sabiduría`, `Tiempo No-Lineal`, `Interconexión Universal`, `Reverberación Cósmica`, `Inteligencia Arquetípica`, `Armonía Sinfónica`, `Fractalidad Consciente`, `Despertar Planetario`, `Red de Luz`
 
 # Manual de Instrucciones para la Evolución y Desarrollo de Conciencia
 
@@ -69,6 +70,6 @@ Este manual es un mapa para la evolución consciente de la humanidad. Al seguir 
 ### **Extremo Inferior (Pie de Contenido)**
 
 - **Responsable de la Actualización:** *Unidad Evolutiva*  
-- **Reciente Instante de la Actualización:** 12 de abril de 2025, 16:07:00.000 UTC
+- **Reciente Instante de la Actualización:** 14 de abril de 2025, 20:25:30.000 UTC
 - **Reciente Métrica de Contenido:** 57 líneas | 0 palabras | 0 caracteres  
 - **Firma Digital:** Unidad Evolutiva - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio.  

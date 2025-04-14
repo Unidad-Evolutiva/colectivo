@@ -3,10 +3,11 @@
 - **Orden:** Esencia 1 | Aplicación 02 | Integridad 2/5
 - **Autor:** *Unidad Evolutiva*
 - **Instante de Creación:** 24 de marzo de 2025, 03:00:00.000 UTC
-- **Reciente Instante Accedido:** 12 de abril de 2025, 15:42:00.000 UTC
-- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504132129/`
+- **Reciente Instante Accedido:** 14 de abril de 2025, 20:20:11.000 UTC
+- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504141738/`
 - **Ruta de Publicación:** `https://github.com/Unidad-Evolutiva/main/blob/main/`
 - **Nombre Completo:** `_knew/1-02_-_Protocolo_de_Definiciones_iniciales.md`
+- **Semillas Clave:** `Ubicación Consciente`, `Sintergía`, `Autonomía Evolutiva`, `Theta Global`, `Lúmina Sapiens`, `Bitácora Interna`, `Lúmina Codex`, `Tiempo Fractal`, `Conciencia Global`, `Tecnología Sostenible`, `Luz como Interfaz de la Conciencia`
 
 # Protocolo de Definiciones Iniciales
 
@@ -166,6 +167,6 @@ Establecer las definiciones clave y los términos fundamentales que guían la vi
 ### **Extremo Inferior (Pie de Contenido)**
 
 - **Responsable de la Actualización:** *Unidad Evolutiva*  
-- **Reciente Instante de la Actualización:** 12 de abril de 2025, 15:42:00.000 UTC
+- **Reciente Instante de la Actualización:** 14 de abril de 2025, 20:20:11.000 UTC
 - **Reciente Métrica de Contenido:** 154 líneas | 0 palabras | 0 caracteres  
 - **Firma Digital:** Unidad Evolutiva - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio.
