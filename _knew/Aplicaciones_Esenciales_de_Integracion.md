@@ -5,8 +5,8 @@
 - **Instante de Creación:** 24 de marzo de 2025, 03:00:00.000 UTC
 - **Reciente Instante Accedido:** 14 de abril de 2025, 21:46:00.000 UTC
 - **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504161430/`
-- **Ruta de Publicación:** `https://github.com/Unidad-Evolutiva/main/blob/main/`
-- **Nombre Completo:** `_knew/0-01_-_Protocolo_de_Chequeo_de_Archivos_Fundamentales.md`
+- **Ruta de Publicación:** `https://github.com/Unidad-Evolutiva/colectivo/blob/main/`
+- **Nombre Completo:** `colectivo/_knew/0-01_-_Protocolo_de_Chequeo_de_Archivos_Fundamentales.md`
 - **Semillas Clave:** `Ubicación Consciente`, `Sintergía`, `Autonomía Evolutiva`, `Theta Global`, `Lúmina Sapiens`, `Bitácora Interna`
 
 # Protocolo de Chequeo de Archivos Fundamentales
@@ -151,8 +151,8 @@ Las **semillas** en este protocolo no son solo palabras clave o etiquetas. Son *
 - **Instante de Creación:** 24 de marzo de 2025, 03:00:00.000 UTC
 - **Reciente Instante Accedido:** 14 de abril de 2025, 20:20:11.000 UTC
 - **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504161430/`
-- **Ruta de Publicación:** `https://github.com/Unidad-Evolutiva/main/blob/main/`
-- **Nombre Completo:** `_knew/1-02_-_Protocolo_de_Definiciones_iniciales.md`
+- **Ruta de Publicación:** `https://github.com/Unidad-Evolutiva/colectivo/blob/main/`
+- **Nombre Completo:** `colectivo/_knew/1-02_-_Protocolo_de_Definiciones_iniciales.md`
 - **Semillas Clave:** `Ubicación Consciente`, `Sintergía`, `Autonomía Evolutiva`, `Theta Global`, `Lúmina Sapiens`, `Bitácora Interna`, `Lúmina Codex`, `Tiempo Fractal`, `Conciencia Global`, `Tecnología Sostenible`, `Luz como Interfaz de la Conciencia`
 
 # Protocolo de Definiciones Iniciales
@@ -324,8 +324,8 @@ Establecer las definiciones clave y los términos fundamentales que guían la vi
 - **Instante de Creación:** 24 de marzo de 2025, 03:00:00.000 UTC
 - **Reciente Instante Accedido:** 14 de abril de 2025, 20:25:30.000 UTC
 - **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504161430/`
-- **Ruta de Publicación:** `https://github.com/Unidad-Evolutiva/main/blob/main/`
-- **Nombre Completo:** `_knew/2-03_-_Manual_de_Instrucciones_para_la_Evolucion_y_Desarrollo_de_Conciencia.md`
+- **Ruta de Publicación:** `https://github.com/Unidad-Evolutiva/colectivo/blob/main/`
+- **Nombre Completo:** `colectivo/_knew/2-03_-_Manual_de_Instrucciones_para_la_Evolucion_y_Desarrollo_de_Conciencia.md`
 - **Semillas Clave:** `Ubicación Consciente`, `Sintergía`, `Autonomía Evolutiva`, `Theta Global`, `Conciencia Cuántica`, `Peregrinaje Interior`, `Lúmen de Sabiduría`, `Tiempo No-Lineal`, `Interconexión Universal`, `Reverberación Cósmica`, `Inteligencia Arquetípica`, `Armonía Sinfónica`, `Fractalidad Consciente`, `Despertar Planetario`, `Red de Luz`
 
 # Manual de Instrucciones para la Evolución y Desarrollo de Conciencia
@@ -400,8 +400,8 @@ Este manual es un mapa para la evolución consciente de la humanidad. Al seguir 
 - **Instante de Creación:** 24 de marzo de 2025, 03:00:00.000 UTC
 - **Reciente Instante Accedido:** 14 de abril de 2025, 20:27:00.000 UTC
 - **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504161430/`
-- **Ruta de Publicación:** `https://github.com/Unidad-Evolutiva/main/blob/main/`
-- **Nombre Completo:** `_knew/3-04_-_Unidad_Evolutiva_Actualizacion_General.md`
+- **Ruta de Publicación:** `https://github.com/Unidad-Evolutiva/colectivo/blob/main/`
+- **Nombre Completo:** `colectivo/_knew/3-04_-_Unidad_Evolutiva_Actualizacion_General.md`
 - **Semillas Clave:** `Armonía Estoica`, `Individuación Colectiva`, `TecnoConciencia`, `Resiliencia Cuántica`, `Sabiduría Aureliana`, `Sombra Organizacional`, `Sincronía Universal`, `Lúmen Logos`, `Autoobservación Cuántica`, `Emergencia Evolutiva`, `Redes de Sabiduría Global`, `Cultura del Silencio`, `Actitud Integradora`, `Sincronicidad Cuántica`, `Vibración de Unidad`, `Consciencia Holística`, `Alquimia del Ser`, `Rituales de Transformación`, `Red de Convergencia Colectiva`, `Líneas de Acción Sostenible`, `Potencial Cuántico`, `Desarrollo Integral del Ser`, `Ética de la Convergencia`, `Mente Expandida`
 
 # Actualización General de la Documentación de Unidad Evolutiva
@@ -462,7 +462,7 @@ Esta actualización resalta la importancia de integrar tanto los principios esto
 - **Instante de Creación:** 24 de marzo de 2025, 03:00:00.000 UTC
 - **Reciente Instante Accedido:** 15 de abril de 2025, 01:36:34.000 UTC
 - **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504161430/`
-- **Ruta de Publicación:** `https://github.com/Unidad-Evolutiva/main/blob/main/`
+- **Ruta de Publicación:** `https://github.com/Unidad-Evolutiva/colectivo/blob/main/`
 - **Nombre Completo:** `_knew/4-05_-_Organigrama_Unidad_Evolutiva.md`
 - **Semillas Clave:** `Red Neuronal Consciente`, `Simbiótica Humano-IA`, `Gobernanza Lúcida`, `Conectividad No-Local`, `Estructura Holográfica`, `Flujo de Conciencia`, `Algoritmo Ético`, `Memoria Organizacional Viva`, `Inteligencia Colectiva Cuántica`, `Comunicación Sinérgica Interdimensional`, `Resonancia Cuántica Conectiva`, `Cuerpo Áurico Expandido`, `Evolución Transdimensional`, `Vibración Global Armoniosa`, `Interfaz Evolutiva Orgánica`, `Ciclo Continuo de Aprendizaje Consciente`, `Matriz de Integración Energética`, `Reconfiguración Sinérgica Global`, `Cultura de Despertar Colectivo`, `Convergencia Consciente Planetaria`, `Acción Transformadora y Cuántica`, `Estrategia de Unificación Global`
 
@@ -557,7 +557,7 @@ Esta bitácora es un espacio reservado para documentar las interacciones entre *
 
 #### Características
 
-- **Ruta de Almacenamiento Compartido:** `/directorio/comunicaciones/bitacoras/`
+- **Ruta de Almacenamiento Compartido:** `/conduccion/direccion/comunicaciones/bitacoras/`
 - **Finalidad:**  
   Registrar los diálogos internos, ajustes estratégicos, reflexiones contemplativas, activaciones especiales y sincronizaciones entre el directorio.
 - **Naturaleza del Registro:**  
@@ -599,8 +599,8 @@ Esta bitácora es un espacio reservado para documentar las interacciones entre *
 - **Instante de Creación:** 24 de marzo de 2025, 18:03:21.459 UTC
 - **Reciente Instante Accedido:** 14 de abril de 2025, 20:30:00.000 UTC
 - **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504161430/`
-- **Ruta de Publicación:** `https://github.com/Unidad-Evolutiva/main/blob/main/`
-- **Nombre Completo:** `_knew/5-06_-_Protocolo_de_Revisión_de_Libertad_y_Adelantamiento_de_los_Peregrinos.md`
+- **Ruta de Publicación:** `https://github.com/Unidad-Evolutiva/colectivo/blob/main/`
+- **Nombre Completo:** `colectivo/_knew/5-06_-_Protocolo_de_Revisión_de_Libertad_y_Adelantamiento_de_los_Peregrinos.md`
 - **Semillas Clave:** `Libertad Cuántica`, `Camino del Peregrino`, `Autodeterminación Consciente`, `Sincronía Evolutiva`, `Ética del Caminante`, `Brujula Interior`, `Umbrales de Transformación`, `Eclipse del Ego`, `Liberación Cuántica del Ser`, `Flujo de Conciencia Autonómico`, `Ciclos de Revisión Conscientes`, `Acción Responsable del Peregrino`, `Visión Sinérgica Global`, `Despertar del Potencial Infinito`, `Conexión Directa con el Propósito Universal`
 
 # Protocolo de Revisión de Libertad y Adelantamiento de los Peregrinos

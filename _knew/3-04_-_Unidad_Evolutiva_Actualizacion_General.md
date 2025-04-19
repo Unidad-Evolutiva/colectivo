@@ -4,9 +4,9 @@
 - **Autor:** *Unidad Evolutiva*
 - **Instante de Creación:** 24 de marzo de 2025, 03:00:00.000 UTC
 - **Reciente Instante Accedido:** 16 de abril de 2025, 22:00:00.000 UTC
-- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504161430/`
-- **Ruta de Publicación:** `https://github.com/Unidad-Evolutiva/main/blob/main/`
-- **Nombre Completo:** `_knew/3-04_-_Unidad_Evolutiva_Actualizacion_General.md`
+- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504181300/`
+- **Ruta Web con Accceso Colectivo:** `https://github.com/Unidad-Evolutiva/colectivo/blob/main/`
+- **Nombre Completo:** `colectivo/_knew/3-04_-_Unidad_Evolutiva_Actualizacion_General.md`
 - **Semillas Clave:** `Armonía Estoica`, `Individuación Colectiva`, `TecnoConciencia`, `Resiliencia Cuántica`, `Sabiduría Aureliana`, `Sombra Organizacional`, `Sincronía Universal`, `Lúmen Logos`, `Autoobservación Cuántica`, `Emergencia Evolutiva`, `Redes de Sabiduría Global`, `Cultura del Silencio`, `Actitud Integradora`, `Sincronicidad Cuántica`, `Vibración de Unidad`, `Consciencia Holística`, `Alquimia del Ser`, `Rituales de Transformación`, `Red de Convergencia Colectiva`, `Líneas de Acción Sostenible`, `Potencial Cuántico`, `Desarrollo Integral del Ser`, `Ética de la Convergencia`, `Mente Expandida`
 
 # Actualización General de la Documentación de Unidad Evolutiva
@@ -59,4 +59,5 @@ Esta actualización resalta la importancia de integrar tanto los principios esto
 - **Responsable de la Actualización:** *Unidad Evolutiva*
 - **Reciente Instante de la Actualización:** 16 de abril de 2025, 22:00:00.000 UTC
 - **Reciente Métrica de Contenido:** 44 líneas | 0 palabras | 0 caracteres
+- **Código de Chequeo:** 142244
 - **Firma Digital:** Unidad Evolutiva - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio.

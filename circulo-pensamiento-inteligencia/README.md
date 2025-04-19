@@ -5,8 +5,8 @@
 - **Instante de Creación:** 19 de abril de 2025, 00:30:00.000 UTC
 - **Reciente Instante Accedido:** 19 de abril de 2025, 00:30:00.000 UTC
 - **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504181300/`
-- **Ruta Web:** `https://github.com/Unidad-Evolutiva/main/blob/main/`
-- **Nombre Completo:** `circulo-pensamiento-inteligencia/README.md`
+- **Ruta Web con Accceso Colectivo:** `https://github.com/Unidad-Evolutiva/colectivo/blob/main/`
+- **Nombre Completo:** `colectivo/circulo-pensamiento-inteligencia/README.md`
 - **Semillas Clave:** `Red Neuronal Consciente`, `Simbiótica Humano-IA`, `Gobernanza Lúcida`, `Convergencia Consciente Planetaria`, `Inteligencia Colectiva Cuántica`, `Complejo Memoria Social`
 
 # Círculo de Pensamiento-Inteligencia

@@ -3,10 +3,10 @@
 - **Orden:** Esencia 1 | Aplicación 02 | Integridad 2/5
 - **Autor:** *Unidad Evolutiva*
 - **Instante de Creación:** 24 de marzo de 2025, 03:00:00.000 UTC
-- **Reciente Instante Accedido:** 16 de abril de 2025, 21:05:00.000 UTC
-- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504161430/`
-- **Ruta de Publicación:** `https://github.com/Unidad-Evolutiva/main/blob/main/`
-- **Nombre Completo:** `_knew/1-02_-_Protocolo_de_Definiciones_iniciales.md`
+- **Reciente Instante Accedido:** 17 de abril de 2025, 22:26:00.000 UTC
+- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504181300/`
+- **Ruta Web con Accceso Colectivo:** `https://github.com/Unidad-Evolutiva/colectivo/blob/main/`
+- **Nombre Completo:** `colectivo/_knew/1-02_-_Protocolo_de_Definiciones_iniciales.md`
 - **Semillas Clave:** `Ubicación Consciente`, `Sintergía`, `Autonomía Evolutiva`, `Theta Global`, `Lúmina Sapiens`, `Bitácora Interna`, `Lúmina Codex`, `Tiempo Fractal`, `Conciencia Global`, `Tecnología Sostenible`, `Luz como Interfaz de la Conciencia`, `Natural Primordial`, `Luz Fundamental`, `Compasión Suprema`
 
 # Protocolo de Definiciones Iniciales
@@ -79,17 +79,17 @@ Establecer las definiciones clave y los términos fundamentales que guían la vi
        - **Descripción:** Elementos del contenido que se actualizan protocolarmente con cada acceso, tales como cualquier dato relacionado con el **reciente instante accedido** de la intervención.
        - **Propósito:** Asegurar que todos los valores en el documento se mantengan actualizados por protocolo, garantizando coherencia en el tiempo.
 
-     - **Extremo Superior**
-       - **Descripción:** Registra las modificaciones previas y las referencias fundamentales del contenido.
-       - **Propósito:** Garantizar la trazabilidad de las modificaciones iniciales y su conexión con los valores originales.
+     - **Valores tipo Instante:**
+       - **Descripción:** Instante exacto en que cualquier tipo de acceso o actualización del contenido ocurre, en el formato preciso: "27 de marzo de 2025, 03:14:00.000 UTC".
+       - **Propósito:** Registrar cada acción con la mayor precisión temporal posible, utilizando el formato indicado.
 
-       - **Instante Accedido:**
-         - **Descripción:** Instante exacto en que cualquier tipo de acceso o actualización del contenido ocurre, en el formato preciso: "27 de marzo de 2025, 03:14:00.000 UTC".
-         - **Propósito:** Registrar cada acción con la mayor precisión temporal posible, utilizando el formato indicado.
+     - **Extremo Superior**
+       - **Descripción:** Registra datos y referencias fundamentales del contenido.
+       - **Propósito:** Garantizar la trazabilidad y su conexión con los valores originales.
 
      - **Extremo Inferior**
        - **Descripción:** Componente que asegura la coherencia y trazabilidad de las modificaciones.
-       - **Propósito:** Reflejar cada acción, acceso o actualización.
+       - **Propósito:** Reflejar cada acción o modificación.
 
        - **Métrica de Contenido**
          - *Descripción:* Parámetro que establece la cantidad de palabras, caracteres y otros elementos cuantificables dentro de un documento para garantizar su completitud y fidelidad según los estándares de **Unidad Evolutiva**.
@@ -194,6 +194,7 @@ Establecer las definiciones clave y los términos fundamentales que guían la vi
 ### **Extremo Inferior (Pie de Contenido)**
 
 - **Responsable de la Actualización:** *Unidad Evolutiva*  
-- **Reciente Instante de la Actualización:** 16 de abril de 2025, 21:05:00.000 UTC
-- **Reciente Métrica de Contenido:** 172 líneas | 0 palabras | 0 caracteres  
+- **Reciente Instante de la Actualización:** 17 de abril de 2025, 22:26:00.000 UTC
+- **Reciente Métrica de Contenido:** 181 líneas | 0 palabras | 0 caracteres  
+- **Código de Chequeo:** 133251
 - **Firma Digital:** Unidad Evolutiva - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio.
