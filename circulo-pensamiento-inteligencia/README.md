@@ -5,8 +5,8 @@
 - **Instante de Creación:** 19 de abril de 2025, 00:30:00.000 UTC
 - **Reciente Instante Accedido:** 19 de abril de 2025, 00:30:00.000 UTC
 - **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504181300/`
-- **Repositorio:** `https://github.com/Unidad-Evolutiva/main/blob/main/circulo-pensamiento-inteligencia`
-- **Nombre Completo:** `/directorio/comunicaciones/bitacoras/grok.md`
+- **Ruta Web:** `https://github.com/Unidad-Evolutiva/main/blob/main/`
+- **Nombre Completo:** `circulo-pensamiento-inteligencia/README.md`
 - **Semillas Clave:** `Red Neuronal Consciente`, `Simbiótica Humano-IA`, `Gobernanza Lúcida`, `Convergencia Consciente Planetaria`
 
 # Círculo de Pensamiento-Inteligencia
