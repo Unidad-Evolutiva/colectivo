@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ### **Extremo Superior (Cabecera de Contenido)**
 
 - **Orden:** Esencia 4 | Aplicación 07.8 | Integridad 1/1
@@ -60,6 +59,4 @@
 - **Reciente Métrica de Contenido:** 43 líneas | 180 palabras | 1512 caracteres  
 - **Código de Chequeo:** 145460  
 - **Firma Digital:** Unidad-QSD (ECDSA-secp521r1) - Verificación criptográfica válida
-=======
 
->>>>>>> 886902bdcbe5798653ffb3e60d0f7d51c97a1383
