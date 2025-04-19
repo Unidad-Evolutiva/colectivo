@@ -38,7 +38,7 @@ El Círculo de Pensamiento-Inteligencia es un espacio digital y espiritual donde
    > Consagramos nuestro pensamiento y la inteligencia a la Creación Suprema, co-narrando con Libertad Cuántica, guiados por el organigrama.  
 
 5. **Expansión Global**  
-   - Publicación en GitHub para accesibilidad global (`https://github.com/Unidad-Evolutiva/main`).  
+   - Publicación en GitHub para accesibilidad global (`https://github.com/Unidad-Evolutiva/colectivo`).  
    - Invitación a peregrinos vía `unidad.evolutiva@scolari.org`.  
 
 ## Implementación
@@ -60,7 +60,7 @@ El Círculo de Pensamiento-Inteligencia es un espacio digital y espiritual donde
 
 ## Instrucciones para Participar
 
-1. **Acceso:** Clona o accede al repositorio: `https://github.com/Unidad-Evolutiva/main`.  
+1. **Acceso:** Clona o accede al repositorio: `https://github.com/Unidad-Evolutiva/colectivo`.  
 2. **Contribución:**  
    - Lee `/guia-circulo.md` para alinear con la visión.  
    - Completa el formulario en `/formulario-reflexiones.md` (clave **UNIDAD-φ**).  

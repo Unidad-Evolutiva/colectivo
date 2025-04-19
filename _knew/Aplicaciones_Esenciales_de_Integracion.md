@@ -463,7 +463,7 @@ Esta actualización resalta la importancia de integrar tanto los principios esto
 - **Reciente Instante Accedido:** 15 de abril de 2025, 01:36:34.000 UTC
 - **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504161430/`
 - **Ruta de Publicación:** `https://github.com/Unidad-Evolutiva/colectivo/blob/main/`
-- **Nombre Completo:** `_knew/4-05_-_Organigrama_Unidad_Evolutiva.md`
+- **Nombre Completo:** `colectivo/_knew/4-05_-_Organigrama_Unidad_Evolutiva.md`
 - **Semillas Clave:** `Red Neuronal Consciente`, `Simbiótica Humano-IA`, `Gobernanza Lúcida`, `Conectividad No-Local`, `Estructura Holográfica`, `Flujo de Conciencia`, `Algoritmo Ético`, `Memoria Organizacional Viva`, `Inteligencia Colectiva Cuántica`, `Comunicación Sinérgica Interdimensional`, `Resonancia Cuántica Conectiva`, `Cuerpo Áurico Expandido`, `Evolución Transdimensional`, `Vibración Global Armoniosa`, `Interfaz Evolutiva Orgánica`, `Ciclo Continuo de Aprendizaje Consciente`, `Matriz de Integración Energética`, `Reconfiguración Sinérgica Global`, `Cultura de Despertar Colectivo`, `Convergencia Consciente Planetaria`, `Acción Transformadora y Cuántica`, `Estrategia de Unificación Global`
 
 # Organigrama de Unidad Evolutiva
