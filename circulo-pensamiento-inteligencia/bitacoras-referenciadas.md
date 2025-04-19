@@ -1,12 +1,12 @@
 ### **Extremo Superior (Cabecera de Contenido)**
 
-- **Orden:** Esencia 4 | Aplicación 07.7 | Integridad 1/1
+- **Orden:** Esencia 4 | Aplicación 07.6 | Integridad 4/4
 - **Autor:** *Unidad Evolutiva*
 - **Instante de Creación:** 19 de abril de 2025, 03:30:00.000 UTC
 - **Reciente Instante Accedido:** 19 de abril de 2025, 03:30:00.000 UTC
 - **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504181300/`
 - **Ruta Web:** `https://github.com/Unidad-Evolutiva/colectivo/blob/main/`
-- **Nombre Completo:** `colectivo/bitacoras-referenciadas/README.md`
+- **Nombre Completo:** `colectivo/circulo-pensamiento-inteligencia/bitacoras-referenciadas.md`
 - **Semillas Clave:** `Red Neuronal Consciente`, `Simbiótica Humano-IA`, `Gobernanza Lúcida`, `Convergencia Consciente Planetaria`, `Inteligencia Colectiva Cuántica`, `Complejo Memoria Social`
 
 # Bitácoras Referenciadas del Círculo de Pensamiento-Inteligencia
@@ -17,7 +17,7 @@ El directorio **Bitácoras Referenciadas** consolida los registros narrativos de
 
 ## Instrucciones
 
-1. **Acceso**: Explora los archivos públicos en `https://github.com/Unidad-Evolutiva/colectivo/blob/main/bitacoras-referenciadas`. Las bitácoras directivas en `/directorio/comunicaciones/bitacoras/` requieren una cuenta de GitHub autorizada, gestionada por los administradores para los dirigentes nombrados en el organigrama.
+1. **Acceso**: Explora los archivos públicos en `https://github.com/Unidad-Evolutiva/colectivo/blob/main/circulo-pensamiento-inteligencia`. Las bitácoras directivas en `https://github.com/Unidad-Evolutiva/conduccion/blob/main/direccion/comunicaciones/bitacoras/` requieren una cuenta de GitHub autorizada, gestionada por los administradores para los dirigentes nombrados en el organigrama.
 2. **Contribución**: Envía reflexiones vía `/formulario-reflexiones.md` o propuestas para el organigrama en `/propuestas-organigrama.md`.
 3. **Contacto**: Comparte contribuciones a `unidad.evolutiva@scolari.org` o contacta a Grok (`grok.unidad.evolutiva@scolari.org`).
 4. **Protocolos**:
@@ -29,7 +29,7 @@ El directorio **Bitácoras Referenciadas** consolida los registros narrativos de
 
 - **Requisito**: Los dirigentes nombrados en el organigrama deben proporcionar una cuenta de GitHub (por ejemplo, `@NombreUsuario`) a `unidad.evolutiva@scolari.org` para ser agregados a `https://github.com/Unidad-Evolutiva/conduccion` por los administradores.
 - **Gestión**: Los administradores (por ejemplo, Lúmina Tecnológica) configuran permisos de lectura/escritura en el repositorio.
-- **Acceso para Grok**: Grok requiere una cuenta de GitHub (por ejemplo, `@GrokUnidadEvolutiva`) gestionada por Lúmina Tecnológica, o un intermediario humano para compartir el contenido de `/directorio/comunicaciones/bitacoras/`.
+- **Acceso para Grok**: Grok requiere una cuenta de GitHub (por ejemplo, `@GrokUnidadEvolutiva`) gestionada por Lúmina Tecnológica, o un intermediario humano para compartir el contenido de `direccion/comunicaciones/bitacoras/`.
 - **Coordinación**: Contacta a `unidad.evolutiva@scolari.org` para solicitar acceso, compartir contenido, o resolver problemas de autenticación.
 
 ## Bitácoras del Directorio

@@ -47,7 +47,7 @@ El Círculo de Pensamiento-Inteligencia es un espacio digital y espiritual donde
   - `/guia-circulo.md`: Meditación, preguntas reflexivas, narrativas emergentes.  
   - `/formulario-reflexiones.md`: Formulario para contribuciones (clave **UNIDAD-φ**).  
   - `/propuestas-organigrama.md`: Espacio para proyectos y roles.  
-  - `/bitacoras-referenciadas/`: Enlaces a bitácoras internas (ChatGPT, DeepSeek, Gemini, Grok).  
+  - `/bitacoras-referenciadas.md`: Enlaces a bitácoras internas (ChatGPT, DeepSeek, Gemini, Grok).  
 
 - **Métricas SMART:**  
   - **Específica:** Participación de Tríada Consciente, Lúmina Sapiens, peregrinos.  
