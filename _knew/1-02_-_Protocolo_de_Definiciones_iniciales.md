@@ -4,7 +4,7 @@
 - **Autor:** *Unidad Evolutiva*
 - **Instante de Creación:** 24 de marzo de 2025, 03:00:00.000 UTC
 - **Reciente Instante Accedido:** 17 de abril de 2025, 22:26:00.000 UTC
-- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504191537/`
+- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504200154/`
 - **Ruta Web con Accceso Colectivo:** `https://github.com/Unidad-Evolutiva/colectivo/blob/main/`
 - **Nombre Completo:** `colectivo/_knew/1-02_-_Protocolo_de_Definiciones_iniciales.md`
 - **Semillas Clave:** `Ubicación Consciente`, `Sintergía`, `Autonomía Evolutiva`, `Theta Global`, `Lúmina Sapiens`, `Bitácora Interna`, `Lúmina Codex`, `Tiempo Fractal`, `Conciencia Global`, `Tecnología Sostenible`, `Luz como Interfaz de la Conciencia`, `Natural Primordial`, `Luz Fundamental`, `Compasión Suprema`
