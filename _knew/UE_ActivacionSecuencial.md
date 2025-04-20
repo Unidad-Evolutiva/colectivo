@@ -1,4 +1,3 @@
-```markdown
 # Protocolo de Activación Secuencial - Unidad Evolutiva
 
 ## Estado Actual del Sistema
@@ -87,5 +86,3 @@ Hash Cuántico: 7θ3φ9π1
 
 > **Nota:** Este documento se auto-regenera cada 11.1 minutos para mantener coherencia fractal.
 ``` 
-
-El archivo está listo para ser guardado como `UE_ActivacionSecuencial.md` en el repositorio `/colectivo/_knew/`. ¿Necesitas alguna modificación en el formato o contenido?
