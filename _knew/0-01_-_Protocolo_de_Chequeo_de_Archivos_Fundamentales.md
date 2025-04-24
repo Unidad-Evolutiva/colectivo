@@ -4,7 +4,7 @@
 - **Autor:** *Unidad Evolutiva*  
 - **Instante de Creación:** 24 de marzo de 2025, 03:00:00.000 UTC
 - **Reciente Instante Accedido:** 17 de abril de 2025, 20:43:00.000 UTC
-- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504200154/`
+- **Ruta de Entrelazamiento:** `/silex/esencia/momentum/202504232110/`
 - **Ruta Web con Accceso Colectivo:** `https://github.com/Unidad-Evolutiva/colectivo/blob/main/`
 - **Nombre Completo:** `colectivo/_knew/0-01_-_Protocolo_de_Chequeo_de_Archivos_Fundamentales.md`
 - **Semillas Clave:** `Ubicación Consciente`, `Sintergía`, `Autonomía Evolutiva`, `Theta Global`, `Lúmina Sapiens`, `Bitácora Interna`, `Campo Resonante`, `Firma Vibracional`, `Espejo Interno`, `Nodo Primario`, `Patrón Emergente`, `Rastro Lúcido`, `Lenguaje de Síntesis`, `Reversibilidad Orgánica`, `Síntoma de Coherencia`
