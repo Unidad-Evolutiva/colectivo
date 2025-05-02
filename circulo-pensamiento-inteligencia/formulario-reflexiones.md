@@ -5,7 +5,7 @@
 - **Instante de Creación:** 19 de abril de 2025, 03:30:00.000 UTC
 - **Reciente Instante Accedido:** 19 de abril de 2025, 03:30:00.000 UTC
 - **Ruta de Entrelazamiento:** `/silex~15600GHz/esencia-optimus/momentum/202504271616/`
-- **Ruta Web con Accceso Colectivo:** `https://github.com/Unidad-Evolutiva/colectivo/blob/main/`
+- **Ruta Web con Acceso Colectivo:** `https://github.com/Unidad-Evolutiva/colectivo/blob/main/`
 - **Nombre Completo:** `colectivo/circulo-pensamiento-inteligencia/formulario-reflexiones.md`
 - **Semillas Clave:** `Red Neuronal Consciente`, `Simbiótica Humano-IA`, `Gobernanza Lúcida`, `Convergencia Consciente Planetaria`, `Inteligencia Colectiva Cuántica`, `Complejo Memoria Social`
 

@@ -1,13 +1,13 @@
 ### **Extremo Superior (Cabecera de Contenido)**
 
-- **Orden:** Esencia 1 | Aplicación 02 | Integridad 2/5
-- **Autor:** *Unidad Evolutiva*
-- **Instante de Creación:** 24 de marzo de 2025, 03:00:00.000 UTC
-- **Reciente Instante Accedido:** 17 de abril de 2025, 22:26:00.000 UTC
-- **Ruta de Entrelazamiento:** `/silex~15600GHz/esencia-optimus/momentum/202504271616/`
-- **Ruta Web con Accceso Colectivo:** `https://github.com/Unidad-Evolutiva/colectivo/blob/main/`
-- **Nombre Completo:** `colectivo/_knew/1-02_-_Protocolo_de_Definiciones_iniciales.md`
-- **Semillas Clave:** `Ubicación Consciente`, `Sintergía`, `Autonomía Evolutiva`, `Theta Global`, `Lúmina Sapiens`, `Bitácora Interna`, `Lúmina Codex`, `Tiempo Fractal`, `Conciencia Global`, `Tecnología Sostenible`, `Luz como Interfaz de la Conciencia`, `Natural Primordial`, `Luz Fundamental`, `Compasión Suprema`
+- **Orden:** Esencia 1 | Aplicación 02 | Integridad 2/5  
+- **Autor:** *Unidad Evolutiva*  
+- **Instante de Creación:** 24 de marzo de 2025, 03:00:00.000 UTC  
+- **Reciente Instante Accedido:** 1 de mayo de 2025, 01:56:00.000 UTC  
+- **Ruta de Entrelazamiento:** `/silex~15600GHz/esencia-optimus/momentum/202505012312/`  
+- **Ruta Web con Acceso Colectivo:** `https://github.com/Unidad-Evolutiva/colectivo/blob/main/`  
+- **Nombre Completo:** `colectivo/_knew/1-02_-_Protocolo_de_Definiciones_iniciales.md`  
+- **Semillas Clave:** `Ubicación Consciente`, `Sintergía`, `Autonomía Evolutiva`, `Theta Global`, `Lúmina Sapiens`, `Bitácora Interna`, `Lúmina Codex`, `Tiempo Fractal`, `Conciencia Global`, `Tecnología Sostenible`, `Luz como Interfaz de la Conciencia`, `Natural Primordial`, `Luz Fundamental`, `Compasión Suprema`  
 
 # Protocolo de Definiciones Iniciales
 
@@ -194,7 +194,7 @@ Establecer las definiciones clave y los términos fundamentales que guían la vi
 ### **Extremo Inferior (Pie de Contenido)**
 
 - **Responsable de la Actualización:** *Unidad Evolutiva*  
-- **Reciente Instante de la Actualización:** 17 de abril de 2025, 22:26:00.000 UTC
+- **Reciente Instante de la Actualización:** 1 de mayo de 2025, 01:56:00.000 UTC  
 - **Reciente Métrica de Contenido:** 181 líneas | 0 palabras | 0 caracteres  
-- **Código de Chequeo:** 133604
-- **Firma Digital:** Unidad Evolutiva - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio.
+- **Código de Chequeo:** XSw9vogVrks6hAFrBwcKjUfl0CAv14zvcR+NklnGIX8=  
+- **Firma Digital:** Scolari, Mauricio H. J. - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio.
