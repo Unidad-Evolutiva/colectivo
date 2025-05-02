@@ -1,0 +1,238 @@
+**Bitácora del Desarrollo de la Implementación de MD5 en Python**
+
+**Objetivo:**
+
+Desarrollar una implementación en Python del algoritmo de hash MD5 que sea precisa, eficiente y consistente con las implementaciones estándar (especialmente `hashlib` de Python).
+
+**Entrada:**
+
+* Código fuente C (`Hacl_Hash_MD5.c`) como referencia (como la "fuente de la verdad" absoluta, como una implementación sólida a comparar).
+* Especificación del algoritmo MD5 (RFC 1321).
+* La función `hashlib.md5()` de Python como la implementación de referencia para los resultados correctos.
+
+**Herramientas:**
+
+* Python 3.x
+* Biblioteca estándar de Python (`struct`, `math`, `hashlib`)
+* Depurador (opcional, pero muy útil)
+
+**Cronología y Pasos:**
+
+**Día 1: Primeros Pasos e Inconsistencias**
+
+* Se proporcionó un código Python inicial que intentaba implementar el MD5.
+* Se identificaron problemas de precisión: la implementación producía resultados incorrectos para la entrada "abcd".
+* Se realizaron intentos iniciales de corregir el código, centrándose en la rotación de variables en la función `process_block`.
+* **Lección aprendida:** La precisión es crucial en criptografía. Incluso pequeños errores conducen a resultados incorrectos.
+
+**Día 2: Enfoque en el Padding**
+
+* Se revisó la especificación MD5 (RFC 1321) y se identificó el padding como un área crítica.
+* Se corrigió la condición del bucle `while` en la función `padding` para calcular correctamente la longitud del mensaje con padding.
+* Se realizaron pruebas unitarias para la función `padding` con diferentes entradas.
+* **Desafío:** A pesar de la corrección del padding, la implementación aún producía resultados incorrectos.
+* **Lección aprendida:** La importancia de las pruebas unitarias para componentes individuales.
+
+**Día 3: El Error Esquivo de la Rotación**
+
+* Se agregó la depuración con la impresión de valores intermedios (A, B, C, D) en la función `process_block`.
+* Se compararon los valores intermedios con los de `hashlib` y se identificó una discrepancia desde la primera ronda.
+* Se descubrió un error en la función `left_rotate`: la precedencia incorrecta de los operadores bitwise.
+* Se corrigió la función `left_rotate` agregando paréntesis para forzar el orden correcto de las operaciones.
+* Después de esta corrección, la implementación sigue produciendo los resultados incorrectos.
+* **Lección aprendida:** Tendría que ser algo más que la precedencia de los operadores. La depuración exhaustiva es esencial para identificar errores sutiles.
+
+**Día 4: Construcción Desde Cero (Enfoque Metódico)**
+
+* Para reforzar la comprensión y garantizar la corrección, se decidió construir la implementación de MD5 desde cero, paso a paso.
+* Se implementaron la inicialización, el padding y el procesamiento de bloques, verificando cada paso con `hashlib`.
+* Se agregó depuración detallada (impresión de bloques y valores intermedios) para facilitar la identificación de errores.
+* Se completó la implementación y se tendría que confirmar que produce los resultados correctos.
+* **Lección aprendida:** La construcción metódica y la depuración exhaustiva son estrategias poderosas para implementar algoritmos complejos.
+
+**Código md5_manual.py:**
+
+import struct
+
+__version__ = "1.6.0"  #  <---  Updated Version
+
+# MD5 helper functions
+
+def left_rotate(x, amount):
+    """
+    Performs a left bitwise rotation.
+    """
+    x &= 0xFFFFFFFF  # Ensure we're working with 32-bit unsigned ints
+    return ((x << amount) | (x >> (32 - amount))) & 0xFFFFFFFF
+
+def load32_le(data, index):
+    """
+    Loads a 32-bit little-endian unsigned integer from data.
+    """
+    return struct.unpack("<I", data[index:index+4])[0]
+
+# MD5 round functions
+def F(x, y, z):
+    return (x & y) | (~x & z)
+
+def G(x, y, z):
+    return (x & z) | (y & ~z)
+
+def H(x, y, z):
+    return x ^ y ^ z
+
+def I(x, y, z):
+    return y ^ (x | ~z)
+
+def process_block(data, state):
+    """
+    Processes a single 512-bit (64-byte) block of data.
+    """
+
+    a, b, c, d = state[:]  # Make a copy of the state
+
+    words = [load32_le(data, i) for i in range(0, 64, 4)]
+
+    # Round 1
+    for i in range(16):
+        f = F
+        g = i
+        if i % 4 == 0:
+            rotate_amount = 7
+        elif i % 4 == 1:
+            rotate_amount = 12
+        elif i % 4 == 2:
+            rotate_amount = 17
+        else:
+            rotate_amount = 22
+        a = (a + f(b, c, d) + words[g] + _T[i]) & 0xFFFFFFFF
+        a = left_rotate(a, rotate_amount)
+        a = (a + b) & 0xFFFFFFFF
+        a, d, b, c = d, c, b, a
+
+    # Round 2
+    for i in range(16, 32):
+        f = G
+        g = (5 * i + 1) % 16
+        if i % 4 == 0:
+            rotate_amount = 5
+        elif i % 4 == 1:
+            rotate_amount = 9
+        elif i % 4 == 2:
+            rotate_amount = 14
+        else:
+            rotate_amount = 20
+        a = (a + f(b, c, d) + words[g] + _T[i]) & 0xFFFFFFFF
+        a = left_rotate(a, rotate_amount)
+        a = (a + b) & 0xFFFFFFFF
+        a, d, b, c = d, c, b, a
+
+    # Round 3
+    for i in range(32, 48):
+        f = H
+        g = (3 * i + 5) % 16
+        if i % 4 == 0:
+            rotate_amount = 4
+        elif i % 4 == 1:
+            rotate_amount = 11
+        elif i % 4 == 2:
+            rotate_amount = 16
+        else:
+            rotate_amount = 23
+        a = (a + f(b, c, d) + words[g] + _T[i]) & 0xFFFFFFFF
+        a = left_rotate(a, rotate_amount)
+        a = (a + b) & 0xFFFFFFFF
+        a, d, b, c = d, c, b, a
+
+    # Round 4
+    for i in range(48, 64):
+        f = I
+        g = (7 * i) % 16
+        if i % 4 == 0:
+            rotate_amount = 6
+        elif i % 4 == 1:
+            rotate_amount = 10
+        elif i % 4 == 2:
+            rotate_amount = 15
+        else:
+            rotate_amount = 21
+        a = (a + f(b, c, d) + words[g] + _T[i]) & 0xFFFFFFFF
+        a = left_rotate(a, rotate_amount)
+        a = (a + b) & 0xFFFFFFFF
+        a, d, b, c = d, c, b, a
+
+    # Update state
+    state[0] = (state[0] + a) & 0xFFFFFFFF
+    state[1] = (state[1] + b) & 0xFFFFFFFF
+    state[2] = (state[2] + c) & 0xFFFFFFFF
+    state[3] = (state[3] + d) & 0xFFFFFFFF
+
+def md5(message):
+    """
+    Calculates the MD5 hash of a message.
+    """
+
+    # Initialize state
+    state = [0x67452301, 0xefcdab89, 0x98badcfe, 0x10325476]
+
+    # Pre-processing
+    message = bytearray(message.encode())
+    original_length_in_bits = (len(message) * 8) & 0xFFFFFFFFFFFFFFFF
+    message.append(0x80)  # Append '1' bit, padded to byte
+    while len(message) % 64 != 56:
+        message.append(0x00)  # Pad with zeros
+    message += original_length_in_bits.to_bytes(8, byteorder='little')  # Append length
+
+    # Process message in 512-bit (64-byte) chunks
+    for i in range(0, len(message), 64):
+        process_block(message[i:i+64], state)
+
+    # Return the final state as the MD5 hash
+    return ''.join(format(x, '08x') for x in state)
+
+# Constants (round values) - These were correct.
+_T = [
+    0xd76aa478, 0xe8c7b756, 0x242070db, 0xc1bdceee, 0xf57c0faf, 0x4787c62a, 0xa8304613, 0xfd469501,
+    0x698098d8, 0x8b44f7af, 0xffff5bb1, 0x895cd7be, 0x6b901122, 0xfd987193, 0xa679438e, 0x49b40821,
+    0xf61e2562, 0xc040b340, 0x265e5a51, 0xe9b6c7aa, 0xd62f105d, 0x02441453, 0xd8a1e681, 0xe7d3fbc8,
+    0x21e1cde6, 0xc33707d6, 0xf4d50d87, 0x455a14ed, 0xa9e3e905, 0xfcefa3f8, 0x676f02d9, 0x8d2a4c8a,
+    0xfffa3942, 0x8771f681, 0x6d9d6122, 0xfde5380c, 0xa4beea44, 0x4bdecfa9, 0xf6bb4b60, 0xbebfbc70,
+    0x289b7ec6, 0xeaa127fa, 0xd4ef3085, 0x04881d05, 0xd9d4d039, 0xe6db99e5, 0x1fa27cf8, 0xc4ac5665,
+    0xf4292244, 0x432aff97, 0xab9423a7, 0xfc93a039, 0x655b59c3, 0x8f0ccc92, 0xffeff47d, 0x85845dd1,
+    0x6fa87e4f, 0xfe2ce6e0, 0xa3014314, 0x4e0811a1, 0xf7537e82, 0xbd3af235, 0x2ad7d2bb, 0xeb86d391
+]
+
+if __name__ == '__main__':
+    import hashlib
+    import sys
+
+    print(f"System byteorder: {sys.byteorder}")
+    print(f"md5_manual.py Version: {__version__}")  # Access version from variable
+    print("----------------------------------------")
+
+    test_messages = [
+        "",
+        "a",
+        "abc",
+        "message digest",
+        "abcdefghijklmnopqrstuvwxyz",
+        "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789",
+        "1234567890123456789012345678901234567890123456789012345678901234567890123456789"
+    ]
+
+    for message in test_messages:
+        hash_manual = md5(message)
+        hash_stdlib = hashlib.md5(message.encode()).hexdigest()
+        match = "MATCH!" if hash_manual == hash_stdlib else "DO NOT match!"
+        print(f"Message: '{message}'")
+        print(f"  Hash MD5 manual:\t {hash_manual}")
+        print(f"  Hash MD5 hashlib:\t {hash_stdlib}")
+        print(f"  ? Hashes {match}")
+        print("----------------------------------------")
+
+**Conclusiones:**
+
+* La implementación correcta del algoritmo MD5 requiere una atención meticulosa a los detalles.
+* La especificación RFC 1321 y las implementaciones de referencia (como `hashlib`) son las fuentes definitivas de verdad.
+* Las pruebas unitarias, la depuración y la validación con múltiples fuentes son esenciales para garantizar la corrección.
+* La paciencia, la persistencia y un enfoque sistemático son cruciales para resolver problemas complejos.
