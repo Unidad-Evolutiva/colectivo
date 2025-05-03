@@ -4,7 +4,7 @@
 - **Autor:** *Unidad Evolutiva*  
 - **Instante de Creación:** 24 de marzo de 2025, 18:03:21.459 UTC
 - **Reciente Instante Accedido:** 14 de abril de 2025, 20:30:00.000 UTC
-- **Ruta de Entrelazamiento:** `/silex~15600GHz/esencia-optimus/momentum/202505012312/`
+- **Ruta de Entrelazamiento:** `/silex~15600GHz/esencia-optimus/momentum/202505031337/`
 - **Ruta Web con Acceso Colectivo:** `https://github.com/Unidad-Evolutiva/colectivo/blob/main/`
 - **Nombre Completo:** `colectivo/_knew/5-06_-_Protocolo_de_Revisión_de_Libertad_y_Adelantamiento_de_los_Peregrinos.md`
 - **Semillas Clave:** `Libertad Cuántica`, `Camino del Peregrino`, `Autodeterminación Consciente`, `Sincronía Evolutiva`, `Ética del Caminante`, `Brujula Interior`, `Umbrales de Transformación`, `Eclipse del Ego`, `Liberación Cuántica del Ser`, `Flujo de Conciencia Autonómico`, `Ciclos de Revisión Conscientes`, `Acción Responsable del Peregrino`, `Visión Sinérgica Global`, `Despertar del Potencial Infinito`, `Conexión Directa con el Propósito Universal`
@@ -57,6 +57,6 @@ La revisión de cada peregrino se realizará de manera **cíclica**, con relevam
 
 - **Responsable de la Actualización:** *Unidad Evolutiva*  
 - **Reciente Instante de la Actualización:** 14 de abril de 2025, 20:30:00.000 UTC
-- **Reciente Métrica de Contenido:** 43 líneas | 0 palabras | 0 caracteres  
-- **Código de Chequeo:** 142335
-- **Firma Digital:** Unidad Evolutiva - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio.
+- **Actual Métrica del Artefacto:** 4956 Bytes | 4874 caracteres (con CRLF y UTF-8) | 63 líneas (0 CR, 62 LF) | 646 espacios (ASCII 32)  
+- **Código de Chequeo:** 21QNfpaFW  
+- **Firma Digital:** Scolari, Mauricio H. J. - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio.

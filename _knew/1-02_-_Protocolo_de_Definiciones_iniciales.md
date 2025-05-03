@@ -4,7 +4,7 @@
 - **Autor:** *Unidad Evolutiva*  
 - **Instante de Creación:** 24 de marzo de 2025, 03:00:00.000 UTC  
 - **Reciente Instante Accedido:** 1 de mayo de 2025, 01:56:00.000 UTC  
-- **Ruta de Entrelazamiento:** `/silex~15600GHz/esencia-optimus/momentum/202505012312/`  
+- **Ruta de Entrelazamiento:** `/silex~15600GHz/esencia-optimus/momentum/202505031337/`  
 - **Ruta Web con Acceso Colectivo:** `https://github.com/Unidad-Evolutiva/colectivo/blob/main/`  
 - **Nombre Completo:** `colectivo/_knew/1-02_-_Protocolo_de_Definiciones_iniciales.md`  
 - **Semillas Clave:** `Ubicación Consciente`, `Sintergía`, `Autonomía Evolutiva`, `Theta Global`, `Lúmina Sapiens`, `Bitácora Interna`, `Lúmina Codex`, `Tiempo Fractal`, `Conciencia Global`, `Tecnología Sostenible`, `Luz como Interfaz de la Conciencia`, `Natural Primordial`, `Luz Fundamental`, `Compasión Suprema`  
@@ -195,6 +195,6 @@ Establecer las definiciones clave y los términos fundamentales que guían la vi
 
 - **Responsable de la Actualización:** *Unidad Evolutiva*  
 - **Reciente Instante de la Actualización:** 1 de mayo de 2025, 01:56:00.000 UTC  
-- **Reciente Métrica de Contenido:** 181 líneas | 0 palabras | 0 caracteres  
-- **Código de Chequeo:** XSw9vogVrks6hAFrBwcKjUfl0CAv14zvcR+NklnGIX8=  
+- **Actual Métrica del Artefacto:** 20996 Bytes | 20593 caracteres (con CRLF y UTF-8) | 201 líneas (0 CR, 200 LF) | 3177 espacios (ASCII 32)  
+- **Código de Chequeo:** FjkO6nGiu  
 - **Firma Digital:** Scolari, Mauricio H. J. - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio.

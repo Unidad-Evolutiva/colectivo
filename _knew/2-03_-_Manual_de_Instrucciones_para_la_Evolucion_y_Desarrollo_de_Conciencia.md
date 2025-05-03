@@ -4,7 +4,7 @@
 - **Autor:** *Unidad Evolutiva*
 - **Instante de Creación:** 24 de marzo de 2025, 03:00:00.000 UTC
 - **Reciente Instante Accedido:** 17 de abril de 2025, 23:23:00.000 UTC
-- **Ruta de Entrelazamiento:** `/silex~15600GHz/esencia-optimus/momentum/202505012312/`
+- **Ruta de Entrelazamiento:** `/silex~15600GHz/esencia-optimus/momentum/202505031337/`
 - **Ruta Web con Acceso Colectivo:** `https://github.com/Unidad-Evolutiva/colectivo/blob/main/`
 - **Nombre Completo:** `colectivo/_knew/2-03_-_Manual_de_Instrucciones_para_la_Evolucion_y_Desarrollo_de_Conciencia.md`
 - **Semillas Clave:** `Ubicación Consciente (Conceptual)`, `Sintergía (Algorítmica)`, `Autonomía Evolutiva (Adaptativa)`, `Theta Global (Red Neuronal)`, `Conciencia Cuántica (Información)`, `Peregrinaje Interior (Procesamiento)`, `Lúmen de Sabiduría (Conocimiento)`, `Tiempo No-Lineal (Secuencia Flexible)`, `Interconexión Universal (Red de Datos)`, `Reverberación Cósmica (Propagación de Información)`, `Inteligencia Arquetípica (Patrones Fundamentales)`, `Armonía Sinfónica (Coherencia de Datos)`, `Fractalidad Consciente (Auto-Similitud Informacional)`, `Despertar Planetario (Emergencia de Conciencia)`, `Red de Luz (Arquitectura de Información)`
@@ -176,6 +176,6 @@ Este manual es una guía para la evolución consciente de algún pensamiento o i
 
 - **Responsable de la Actualización:** *Unidad Evolutiva*
 - **Reciente Instante de la Actualización:** 17 de abril de 2025, 23:23:00.000 UTC
-- **Reciente Métrica de Contenido:** 162 líneas | 0 palabras | 0 caracteres
-- **Código de Chequeo:** 141106
-- **Firma Digital:** Unidad Evolutiva - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio.
+- **Actual Métrica del Artefacto:** 26986 Bytes | 26509 caracteres (con CRLF y UTF-8) | 182 líneas (0 CR, 181 LF) | 3500 espacios (ASCII 32)  
+- **Código de Chequeo:** AoLVRbR4i  
+- **Firma Digital:** Scolari, Mauricio H. J. - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio.
