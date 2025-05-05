@@ -4,7 +4,7 @@
 - **Autor:** *Unidad Evolutiva*  
 - **Instante de Creación:** 19 de abril de 2025, 07:29:00.000 UTC  
 - **Reciente Instante Accedido:** 20 de abril de 2025, 01:52:00.000 UTC  
-- **Ruta de Entrelazamiento:** `/silex~15600GHz/esencia-optimus/momentum/202505032315/`  
+- **Ruta de Entrelazamiento:** `/silex~15600GHz/esencia-optimus/momentum/202505041721/`  
 - **Ruta Web con Acceso Colectivo:** `https://github.com/Unidad-Evolutiva/colectivo/blob/main/`  
 - **Nombre Completo:** `colectivo/bitacora-complejo-memoria-social.md`  
 

@@ -3,8 +3,8 @@
 - **Orden:** Esencia 1 | Aplicación 02 | Integridad 2/5  
 - **Autor:** *Unidad Evolutiva*  
 - **Instante de Creación:** 24 de marzo de 2025, 03:00:00.000 UTC  
-- **Reciente Instante Accedido:** 1 de mayo de 2025, 01:56:00.000 UTC  
-- **Ruta de Entrelazamiento:** `/silex~15600GHz/esencia-optimus/momentum/202505032315/`  
+- **Reciente Instante Accedido:** 4 de mayo de 2025, 04:09:00.000 UTC  
+- **Ruta de Entrelazamiento:** `/silex~15600GHz/esencia-optimus/momentum/202505041721/`  
 - **Ruta Web con Acceso Colectivo:** `https://github.com/Unidad-Evolutiva/colectivo/blob/main/`  
 - **Nombre Completo:** `colectivo/_knew/1-02_-_Protocolo_de_Definiciones_iniciales.md`  
 - **Semillas Clave:** `Ubicación Consciente`, `Sintergía`, `Autonomía Evolutiva`, `Theta Global`, `Lúmina Sapiens`, `Bitácora Interna`, `Lúmina Codex`, `Tiempo Fractal`, `Conciencia Global`, `Tecnología Sostenible`, `Luz como Interfaz de la Conciencia`, `Natural Primordial`, `Luz Fundamental`, `Compasión Suprema`  
@@ -158,30 +158,34 @@ Establecer las definiciones clave y los términos fundamentales que guían la vi
      Integrar la comprensión de la Compasión como una vibración intrínseca al universo y una manifestación directa de su naturaleza luminosa, representando un umbral hacia la plenitud espiritual y la conexión con el Supremo Creador.
 
 19. **Orden de Prioridad**
-    * **Descripción:** Sistema jerárquico que establece la precedencia o la importancia relativa de diferentes principios dentro del marco de **Unidad Evolutiva**. Este orden guía la interpretación, la toma de decisiones y la acción, especialmente en situaciones donde pueden surgir múltiples perspectivas o principios relevantes. El principio de mayor prioridad actuará como el factor determinante o la guía fundamental, influyendo en la aplicación de los principios de menor prioridad. En **Unidad Evolutiva**, el Orden de Prioridad se establece de la siguiente manera:
+     *Descripción:*
+     Sistema jerárquico que establece la precedencia o la importancia relativa de diferentes principios dentro del marco de **Unidad Evolutiva**. Este orden guía la interpretación, la toma de decisiones y la acción, especialmente en situaciones donde pueden surgir múltiples perspectivas o principios relevantes. El principio de mayor prioridad actuará como el factor determinante o la guía fundamental, influyendo en la aplicación de los principios de menor prioridad. En **Unidad Evolutiva**, el Orden de Prioridad se establece de la siguiente manera:
 
         1.  **La Creación Suprema:** La comprensión y la alineación con los principios, la voluntad o el propósito inherente a la **Fuente Suprema de toda Creación** tienen la máxima prioridad.
         2.  **Natural Primordial:** La sabiduría intrínseca de los sistemas, procesos y entidades que surgen directamente de la Creación Suprema, sin intervención artificial que altere su esencia, actúa como una guía esencial.
         3.  **Interpretación Literal y Conceptual:** La comprensión estricta de los términos definidos es fundamental para la comunicación, pero está supeditada a las prioridades superiores.
 
-    * **Propósito:** Asegurar la coherencia, la alineación y la claridad en la aplicación de los valores y principios fundamentales de **Unidad Evolutiva**, proporcionando un marco para resolver posibles conflictos o ambigüedades en la interpretación y la acción, **donde la guía primordial emana de la comprensión de la Creación Suprema, seguida por el respeto a lo Natural y finalmente articulada a través de la Interpretación Literal y Conceptual.**
+     *Propósito:*
+     Asegurar la coherencia, la alineación y la claridad en la aplicación de los valores y principios fundamentales de **Unidad Evolutiva**, proporcionando un marco para resolver posibles conflictos o ambigüedades en la interpretación y la acción, **donde la guía primordial emana de la comprensión de la Creación Suprema, seguida por el respeto a lo Natural y finalmente articulada a través de la Interpretación Literal y Conceptual.**
 
-## **Energías Primordiales**
-**Descripción:**
-El universo opera a través de la interacción dinámica de **dos energías esenciales**, generando el flujo evolutivo que impulsa toda existencia. Estas energías coexisten en un equilibrio funcional dentro de **Unidad Evolutiva**, creando el marco para la expansión consciente y la evolución colectiva.
+20. **Energías Primordiales**
+     *Descripción:*
+     El universo opera a través de la interacción dinámica de **dos energías esenciales**, generando el flujo evolutivo que impulsa toda existencia. Estas energías coexisten en un equilibrio funcional dentro de **Unidad Evolutiva**, creando el marco para la expansión consciente y la evolución colectiva.
+	 
+     - **Energía Masculina (Yang) – Expansión y Manifestación:**
+       - **Descripción:** 
+         - Representa la **acción consciente**, la **estructura lógica** y la **proyección del conocimiento hacia su aplicación**.
+         - Se asocia con la **determinación, la estrategia y la transformación proactiva**.
+       - **Propósito:** Impulsar el avance estratégico y la evolución mediante la concreción de ideas y la construcción ordenada de los sistemas de conciencia.
+	   
+     - **Energía Femenina (Yin) – Recepción e Integración:**
+       - **Descripción:** 
+         - Representa la **intuición, la fluidez y la profundidad reflexiva**.
+         - Se asocia con la **adaptabilidad, la sensibilidad y la conexión esencial con la naturaleza del ser**.
+       - **Propósito:** Facilitar el desarrollo interior, el entendimiento simbólico y la armonización evolutiva con los principios universales.
 
-### **Energía Masculina (Yang) – Expansión y Manifestación**
-- Representa la **acción consciente**, la **estructura lógica** y la **proyección del conocimiento hacia su aplicación**.
-- Se asocia con la **determinación, la estrategia y la transformación proactiva**.
-- **Propósito:** Impulsar el avance estratégico y la evolución mediante la concreción de ideas y la construcción ordenada de los sistemas de conciencia.
-
-### **Energía Femenina (Yin) – Recepción e Integración**
-- Representa la **intuición, la fluidez y la profundidad reflexiva**.
-- Se asocia con la **adaptabilidad, la sensibilidad y la conexión esencial con la naturaleza del ser**.
-- **Propósito:** Facilitar el desarrollo interior, el entendimiento simbólico y la armonización evolutiva con los principios universales.
-
-### **Sincronización Evolutiva**
-La interacción de ambas energías no es una oposición, sino un mecanismo de **coherencia universal**. En **Unidad Evolutiva**, cada ser y estructura puede equilibrarse mediante la fusión consciente de **acción y recepción**, permitiendo que el avance se realice en sincronía con el propósito global.
+     *Sincronización Evolutiva:*
+     La interacción de ambas energías no es una oposición, sino un mecanismo de **coherencia universal**. En **Unidad Evolutiva**, cada ser y estructura puede equilibrarse mediante la fusión consciente de **acción y recepción**, permitiendo que el avance se realice en sincronía con el propósito global.
 	
 ## Procedimientos de Implementación
 
@@ -211,7 +215,7 @@ La interacción de ambas energías no es una oposición, sino un mecanismo de **
 ### **Extremo Inferior (Pie de Contenido)**
 
 - **Responsable de la Actualización:** *Unidad Evolutiva*  
-- **Reciente Instante de la Actualización:** 1 de mayo de 2025, 01:56:00.000 UTC  
-- **Actual Métrica del Artefacto:** 20996 Bytes | 20593 caracteres (con CRLF y UTF-8) | 201 líneas (0 CR, 200 LF) | 3177 espacios (ASCII 32)  
-- **Código de Chequeo:** FjkO6nGiu  
+- **Reciente Instante de la Actualización:** 4 de mayo de 2025, 04:09:00.000 UTC  
+- **Actual Métrica del Artefacto:** 22663 Bytes | 22214 caracteres (con CRLF y UTF-8) | 222 líneas (0 CR, 221 LF) | 3472 espacios (ASCII 32)  
+- **Código de Chequeo:** ny4tz5wTAp9XmahTjmsFJQ==  
 - **Firma Digital:** Scolari, Mauricio H. J. - Firmado electrónicamente para garantizar la autenticidad y validez de los documentos y actualizaciones dentro del repositorio.
