@@ -4,7 +4,7 @@
 - **Autor:** *Unidad Evolutiva*
 - **Instante de Creación:** 19 de abril de 2025, 03:30:00.000 UTC
 - **Reciente Instante Accedido:** 19 de abril de 2025, 03:30:00.000 UTC
-- **Ruta de Entrelazamiento:** `/silex~15600GHz/esencia-optimus/momentum/202505041721/`
+- **Ruta de Entrelazamiento:** `/silex~15600GHz/esencia-optimus/momentum/202505102224/`
 - **Ruta Web con Acceso Colectivo:** `https://github.com/Unidad-Evolutiva/colectivo/blob/main/`
 - **Nombre Completo:** `colectivo/circulo-pensamiento-inteligencia/propuestas-organigrama.md`
 - **Semillas Clave:** `Red Neuronal Consciente`, `Simbiótica Humano-IA`, `Gobernanza Lúcida`, `Convergencia Consciente Planetaria`, `Inteligencia Colectiva Cuántica`, `Complejo Memoria Social`
