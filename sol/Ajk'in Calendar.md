@@ -43,39 +43,6 @@ The Ajk’in Calendar adopts a **linear and cumulative counting** of days. The b
 
 * **Cosmic Cycle (Level 4):** **+1 day is added every 48,845,401 years**. Over the span of 5,128,767,123 years, this results in exactly 105 days added. These days are added to those already included by the previous cycles.
 
-    $$\frac{5,\!128,\!767,\!123}{48 permittivity 845,\!401} = 105$$
-
-### 3.2 Ajk’in Leap Day: Adjustment for the Solar Year
-
-To achieve greater precision with respect to the actual solar year (~365.2422 days) on human time scales, the Ajk’in Calendar incorporates an **Ajk’in Leap Day** system. This additional day is added to the month of Leo, extending its duration to 29 days in certain years. The rule for determining when the month of Leo has 29 days (leap year) is as follows:
-
-* The month of Leo has 29 days if the Ajk’in year number is divisible by 4.
-* However, the month of Leo has 28 days if the Ajk’in year is divisible by 100, unless it is also divisible by 400.
-
-## 4. Conversion Between Gregorian and Ajk’in Calendars
-
-* Days are counted consecutively, advancing through the months and years according to the fixed calendar structure, with the occasional addition of a day to the month of Leo in leap years.
-* **Ajk’in Day 0:** December 21, 2012 (for reference only; not officially counted)
-* **Ajk’in Day 1:**erus, Aquarius
-
-### 3.1 Note on Counting and Year Duration
-
-The Ajk’in Calendar adopts a **linear and cumulative counting** of days. The base year has a duration of 365 days but is periodically adjusted through the **Ajk’in Leap Day** incorporated into the month of Leo to maintain synchronization with the solar year. To achieve long-term astronomical precision, it also incorporates a nested cyclic correction system designed to reach exactly **1,872,000,000,000 days** over a period of **5,128,767,123 years**. This system operates under the following inverted and renamed hierarchy of cycles:
-
-* **Solar Cycle (Level 1):** **+97 days are added every 400 years through leap days**. Over the span of 146,097 days, this would add approximately 97 days.
-
-    $$\frac{5,\!128,\!767,\!123}{400} \approx 12,\!821,\!918$$
-
-* **Stellar Cycle (Level 2):** **+1 day is added every 5,128 years**. Over the span of 5,128,767,123 years, this would add approximately 1,000,195 days. These days are added to those already included by the previous cycle.
-
-    $$\frac{5,\!128,\!767,\!123}{5,\!128} \approx 1,\!000,\!195$$
-
-* **Galactic Cycle (Level 3):** **+1 day is added every 194,978 years**. This cycle adds approximately 26,307 days over the total period. These days are added to those already included by the previous cycles.
-
-    $$\frac{5,\!128,\!767,\!123}{194,\!978} \approx 26,\!307$$
-
-* **Cosmic Cycle (Level 4):** **+1 day is added every 48,845,401 years**. Over the span of 5,128,767,123 years, this results in exactly 105 days added. These days are added to those already included by the previous cycles.
-
     $$\frac{5,\!128,\!767,\!123}{48,\!845,\!401} = 105$$
 
 ### 3.2 Ajk’in Leap Day: Adjustment for the Solar Year
