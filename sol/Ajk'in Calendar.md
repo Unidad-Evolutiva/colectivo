@@ -1,5 +1,5 @@
 # Proposal for a New Calendar: "Ajk’in Calendar"
-## Version May 18, 2025, 03:20:00 UTC-03
+## Version May 18, 2025, 15:15:00 UTC-03
 
 ## 1. Introduction
 
@@ -29,19 +29,19 @@ As an extension of the Gregorian calendar, its use aligns with astronomical cycl
 
 The Ajk’in Calendar adopts a **linear and cumulative counting** of days. The base year has a duration of 365 days but is periodically adjusted through the **Ajk’in Leap Day** incorporated into the month of Leo to maintain synchronization with the solar year. To achieve long-term astronomical precision, it also incorporates a nested cyclic correction system designed to reach exactly **1,872,000,000,000 days** over a period of **5,128,767,123 years**. This system operates under the following inverted and renamed hierarchy of cycles:
 
-* **Solar Cycle (Level 1):** **+97 days are added every 400 years through leap days**. Over the span of 146,097 days, this would add approximately 97 days.
+* **Solar Cycle (Level 0):** **+97 days are added every 400 years through leap days**. Over the span of 146,097 days, this would add approximately 97 days.
 
     $$\frac{5,\!128,\!767,\!123}{400} \approx 12,\!821,\!918$$
 
-* **Stellar Cycle (Level 2):** **+1 day is added every 5,128 years**. Over the span of 5,128,767,123 years, this would add approximately 1,000,195 days. These days are added to those already included by the previous cycle.
+* **Stellar Cycle (Level 1):** **+1 day is added every 5,128 years**. Over the span of 5,128,767,123 years, this would add approximately 1,000,195 days. These days are added to those already included by the previous cycle.
 
     $$\frac{5,\!128,\!767,\!123}{5,\!128} \approx 1,\!000,\!195$$
 
-* **Galactic Cycle (Level 3):** **+1 day is added every 194,978 years**. This cycle adds approximately 26,307 days over the total period. These days are added to those already included by the previous cycles.
+* **Galactic Cycle (Level 2):** **+1 day is added every 194,978 years**. This cycle adds approximately 26,307 days over the total period. These days are added to those already included by the previous cycles.
 
     $$\frac{5,\!128,\!767,\!123}{194,\!978} \approx 26,\!307$$
 
-* **Cosmic Cycle (Level 4):** **+1 day is added every 48,845,401 years**. Over the span of 5,128,767,123 years, this results in exactly 105 days added. These days are added to those already included by the previous cycles.
+* **Cosmic Cycle (Level 3):** **+1 day is added every 48,845,401 years**. Over the span of 5,128,767,123 years, this results in exactly 105 days added. These days are added to those already included by the previous cycles.
 
     $$\frac{5,\!128,\!767,\!123}{48,\!845,\!401} = 105$$
 
@@ -72,8 +72,8 @@ Ajk’in Day = (Gregorian Date - December 21, 2012) in total days
 
 | Gregorian Date | Ajk’in Day | Year | Month No. | Month Name | Day of Month | Notes        |
 |----------------|------------|------|-----------|------------|--------------|--------------|
-| Dec 21, 2012   | 0          | -    | -         | -          | -            | -            |
-| Dec 22, 2012   | 1          | 1    | 1         | Pisces     | 1            | -            |
+| Dec 21, 2012   | 0          | -    | -         | -          | -            | Node         |
+| Dec 22, 2012   | 1          | 1    | 1         | Pisces     | 1            | Start        |
 | Feb 29, 2024   | 4087       | 12   | 6         | Leo        | 29           | Leap year    |
 | Jun 28, 2025   | 4572       | 13   | 6         | Leo        | 28           | Normal       |
 
