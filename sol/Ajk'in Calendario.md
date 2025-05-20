@@ -1,18 +1,72 @@
-# Propuesta de un Nuevo Calendario: "Calendario Ajk’in"
-## Versión 18 de mayo de 2025 17:48:00 UTC-03
+# Propuesta de "Calendario Ajk’in"
+
+## Sistema Lineal de la vuelta Terrestre al Sol, con 13 Meses Basados en Constelaciones Reales y Nodo de Convergencia en Precesión de Equinoccios  
+### Versión 19 de mayo de 2025 22:18:00 UTC-03
+
+---
 
 ## 1. Introducción
 
 El **Calendario Ajk’in** es un sistema acumulativo lineal de medición del movimiento de la Tierra en relación con el Sol. Al igual que el calendario maya tipo Haab', se basa en un ciclo anual de **365 días**. Este calendario divide el año en **13 meses**, cada uno nombrado según las **13 constelaciones zodiacales**, incluyendo a Ofiuco. La marca temporal de inicio se establece el **22 de diciembre de 2012**, simbolizando una renovación cósmica en la tradición maya.
 
+---
+
 ## 2. Origen y Justificación
 
-Como extensión del calendario gregoriano, está alineado con ciclos astronómicos y simbolismos culturales de diversas tradiciones. El Calendario Ajk’in propone una alternativa que, manteniendo la duración anual de **365 días** del Haab', ofrece una estructura diferente y una conexión astronómica directa:
+Como extensión del calendario gregoriano, el **Calendario Ajk’in** se alinea con ciclos astronómicos reales y con significados simbólicos compartidos por múltiples culturas. Se fundamenta en la sincronización de un **nodo central**: el **21 de diciembre de 2012**, fecha reconocida por diversas tradiciones como un punto de inflexión cósmico, espiritual o calendárico.
 
-* Nodo en la Cuenta Larga Maya: 13.0.0.0.0 (Día 0 Ajk’in)
-* Nodo en calendario Gregoriano: 21 de diciembre de 2012 (Día 0 Ajk’in)
-* 13 meses (derivados de las constelaciones zodiacales) por año con ajuste bisiesto en un mes
-* Duración anual de 365 días (366 en años bisiestos), como el calendario maya tipo Haab'
+### 🌍 Nodo de Convergencia: 21 de diciembre de 2012 (Día 0 Ajk’in)
+
+Este día marca el **inicio simbólico y astronómico** del Calendario Ajk’in y se corresponde con momentos clave en diversas culturas y calendarios. Su elección como punto de partida se refuerza por su convergencia simbólica con el solsticio de invierno y festividades de renovación o renacimiento en múltiples tradiciones:
+
+#### ☀️ Calendarios Solares
+
+- **Gregoriano:** 21 de diciembre de 2012 → Solsticio de invierno
+- **Juliano:** 8 de diciembre de 2012 → Equivalente solar aproximado
+- **Persa (iraní):** 1 Dey 1391 → Día tras *Shab-e Yaldā*, la noche más larga
+- **Egipcio Antiguo:** 6 Mechir → Temporada *Peret*, germinación
+- **Incaico:** 1 Camay Quilla → Mes de la *fecundación espiritual*
+- **Buda (budista tailandés):** Año 2555 BE → Fin de ciclo solar, mes 12 (Phussa)
+- **Romano (reconstruido):** ∼ 3 días después de Saturnalia → Celebración del Sol Invictus
+
+#### 🌒 Calendarios Lunisolares
+
+- **Hebreo:** 8 Tevet 5773 → Posterior a Janucá, *luz creciente*
+- **Chino tradicional:** 8.º día del 11.º mes lunar → Cercano a *Dōngzhì*, solsticio
+- **Hindú (Panchangam):** 7 diciembre 2012 → Inicio de *Uttarayana*, ascenso solar
+- **Tamil:** Mes de *Margazhi* → Mes de pureza y canto devocional
+- **Tibetano:** 15.º día del 8.º mes → Día de *Milagros*, festividad espiritual
+- **Griego antiguo (Ático):** ∼ 6 Poseideón 4278 AG → *Dionisias rurales*, renovación agrícola
+- **Coreano tradicional (Dangun):** Año 4345 Dangun → Calendario lunisolar, con celebraciones asociadas a la renovación solar
+- **Palestino tradicional (agro-lunar):** Mes de *Kānūn al-Awwal* → Ciclo agrícola de germinación
+
+#### 🕯️ Calendarios Astronómicos y Culturales/Rituales
+
+- **Maya (Cuenta Larga):** 13.0.0.0.0 → Fin de un *Baktún*, renacimiento de ciclo
+- **Azteca (Xiuhpohualli):** Inicio del año solar → *Rituales agrícolas y de renovación*
+- **Mapuche (We Tripantu):** Retorno solar en el hemisferio sur (∼junio) → Fecha simbólica invertida
+- **Hopi:** Día del *Soyal* → Renacimiento espiritual del Sol
+- **Celta (moderno):** 21 diciembre → *Yule*, renacimiento de la luz
+- **Nórdico/Vikingo (rúnico):** Runa *Jēran* → Final de ciclo agrícola, símbolo de cosecha y renovación
+- **Bahá’í:** Naw-Rúz 171 B.E. comienza el 21 marzo 2013 → ∼Equinoccio, renovación espiritual
+- **Griego órfico/óntico:** Celebraciones dionisíacas → Transformación y resurrección cíclica
+
+#### 🕌 Calendarios Civiles/Religiosos
+
+- **Islámico:** 7 Safar 1434 AH → Mes de *transición*, antes de la renovación de Rabi’ al-awwal
+- **Japonés (Wareki):** Heisei 24年12月21日 → Dentro del ciclo solar japonés moderno
+- **Ruso (juliano ortodoxo):** 8 diciembre 2012 → Usado litúrgicamente por la Iglesia Ortodoxa Rusa
+
+Estas coincidencias no son arbitrarias: señalan un momento compartido de **oscuridad máxima y renacimiento de la luz**, con implicaciones agrícolas, espirituales y cósmicas.
+
+### 🧭 Fundamentos del Calendario Ajk’in
+
+* **Duración anual:** 365 días (366 en años bisiestos), como el calendario **Haab’** maya.
+* **Estructura mensual:** 13 meses de 28 días cada uno (364 días) + 1 o 2 días nodales (Día 0 y bisiesto).
+* **Inicio del año:** 22 de diciembre de 2012 (Día 1 Ajk’in).
+* **Meses zodiacales:** Derivados de las constelaciones, mantienen una conexión directa con el cielo.
+* **Ajuste bisiesto:** Se aplica un día extra al final del mes de Aries cada 4 años.
+* **Conexión cultural:** Marca el inicio de la **Era de Acuario**, evocada en muchas tradiciones como un tiempo de despertar, integración y conciencia global.
 
 ## 3. Estructura del Calendario
 
@@ -20,12 +74,13 @@ Como extensión del calendario gregoriano, está alineado con ciclos astronómic
 
 * **Unidad base:** 1 día
 * **Inicio en la Cuenta Larga Maya:** 13.0.0.0.1 (Día 1 Ajk’in)
-* **Inicio en calendario Gregoriano:** 22 de diciembre de 2012 (Día 1 Ajk’in)
+* **Inicio en calendario gregoriano:** 22 de diciembre de 2012 (Día 1 Ajk’in)
 * **Duración del año:** **365 días** (366 en años bisiestos)
 * **Meses por año:** 13
 * **Duración normal de los meses:** 12 meses × 28 días + **Virgo × 29 días**
 * **Duración bisiesto de los meses:** 11 meses × 28 días + **Virgo × 29 días** + **Leo × 29 días**
-* **Nombres de los meses:** Piscis, Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Ofiuco, Sagitario, Capricornio, Acuario
+* **Nombres de los meses:** Acuario, Piscis, Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Ofiuco, Sagitario, Capricornio
+* **Orden de los meses:** Comienza con Acuario y sigue el recorrido solar real por las constelaciones zodiacales (orden solar observado)
 
 ### 3.1 Nota sobre conteo y duración del año
 
@@ -76,12 +131,14 @@ Día Ajk'in = (Fecha Gregoriana - 21 de diciembre de 2012) en días totales
 
 ## 6. Ejemplo de Conversión
 
-| Fecha Gregoriana | Día Ajk’in | Año | N.º de Mes | Nombre del Mes | Día del Mes | Notas        |
-| ---------------- | ---------- | --- | ---------- | -------------- | ----------- | ------------ |
-| 21 dic 2012      | 0          | -   | -          | -              | -           | Nodo         |
-| 22 dic 2012      | 1          | 1   | 1          | Piscis         | 1           | Inicio       |
-| 29 feb 2024      | 4087       | 12  | 6          | Leo            | 29          | Bisiesto     |
-| 28 jun 2025      | 4572       | 13  | 6          | Leo            | 28          | Normal       |
+| F. Gregoriana | Día Ajk’in | Año | Nº Mes | Día Mes | Nombre Mes | Notas        |
+| ------------- | ---------- | --- | ------ | ------- | ---------- | ------------ |
+| 21 dic 2012   | 0          | -   | -      | -       | -          | Nodo         |
+| 22 dic 2012   | 1          | 1   | 1      | 1       | Acuario    | Inicio       |
+| 29 feb 2024   | 4087       | 12  | 3      | 14      | Aries      | Bisiesto     |
+| 05 jul 2024   | 4214       | 12  | 7      | 29      | Leo        | Bisiesto     |
+| 28 feb 2025   | 4452       | 13  | 3      | 13      | Aries      | Normal       |
+| 05 jul 2025   | 4579       | 13  | 7      | 28      | Leo        | Normal       |
 
 ## 7. Ventajas
 
